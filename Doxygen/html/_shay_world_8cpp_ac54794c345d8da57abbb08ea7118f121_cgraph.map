@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_textured_polygons.html#a172716856851bb2b34fc1a66fb0b0b92" title="TexturedPolygons::SetTextureCount" alt="" coords="164,5,393,32"/>
+<area shape="rect" href="$class_textured_polygons.html#af491c14a7711097065a61e8b54c95647" title="TexturedPolygons::LoadTexture" alt="" coords="177,56,380,83"/>
+<area shape="rect" href="$class_textured_polygons.html#ac197b25a7152feed1499351f22446a45" title="TexturedPolygons::CreateTexture" alt="" coords="172,107,385,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$_shape_8hpp.html" title="SFML/SFML/Graphics/Shape.hpp" alt="" coords="560,155,776,181"/>
+<area shape="rect" href="$_sprite_8hpp.html" title="SFML/SFML/Graphics/Sprite.hpp" alt="" coords="153,80,367,107"/>
+<area shape="rect" href="$_text_8hpp.html" title="SFML/SFML/Graphics/Text.hpp" alt="" coords="952,155,1157,181"/>
+<area shape="rect" href="$_vertex_array_8hpp.html" title="SFML/SFML/Graphics/VertexArray.hpp" alt="" coords="745,80,993,107"/>
+<area shape="rect" href="$_circle_shape_8hpp.html" title="SFML/SFML/Graphics/CircleShape.hpp" alt="" coords="316,229,567,256"/>
+<area shape="rect" href="$_graphics_8hpp.html" title="SFML/SFML/Graphics.hpp" alt="" coords="516,304,692,331"/>
+<area shape="rect" href="$_convex_shape_8hpp.html" title="SFML/SFML/Graphics/ConvexShape.hpp" alt="" coords="641,229,900,256"/>
+<area shape="rect" href="$_rectangle_shape_8hpp.html" title="SFML/SFML/Graphics/RectangleShape.hpp" alt="" coords="17,229,292,256"/>
+</map>

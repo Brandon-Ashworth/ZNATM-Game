@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_plain_linked_list.html#a4d9d62421c215a3c9e2c9ef0833b84a1" title="PlainLinkedList::AddToStart" alt="" coords="185,56,367,83"/>
+<area shape="rect" href="$class_plain_node.html#a566db8fc78c8b4dea13373f908a53577" title="PlainNode::SetData" alt="" coords="416,5,552,32"/>
+<area shape="rect" href="$class_plain_node.html#afe5be77c2dfbf7447105f0ea722e77f1" title="PlainNode::SetNext" alt="" coords="416,56,552,83"/>
+<area shape="rect" href="$class_plain_node.html#a34f55330c3e261b76b9086fec5928386" title="PlainNode::GetNext" alt="" coords="416,107,552,133"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$_graphics_2_export_8hpp.html" title="SFML/Graphics/Export.hpp" alt="" coords="256,453,435,480"/>
+<area shape="rect" href="$_shape_8hpp.html" title="SFML/Graphics/Shape.hpp" alt="" coords="409,80,588,107"/>
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="285,528,405,555"/>
+<area shape="rect" href="$_drawable_8hpp.html" title="SFML/Graphics/Drawable.hpp" alt="" coords="401,229,596,256"/>
+<area shape="rect" href="$_vector2_8hpp.html" title="SFML/System/Vector2.hpp" alt="" coords="1104,528,1283,555"/>
+<area shape="rect" href="$_transformable_8hpp.html" title="SFML/Graphics/Transformable.hpp" alt="" coords="93,304,315,331"/>
+<area shape="rect" href="$_vertex_array_8hpp.html" title="SFML/Graphics/VertexArray.hpp" alt="" coords="729,155,940,181"/>
+<area shape="rect" href="$_render_states_8hpp.html" title="SFML/Graphics/RenderStates.hpp" alt="" coords="389,304,608,331"/>
+<area shape="rect" href="$_blend_mode_8hpp.html" title="SFML/Graphics/BlendMode.hpp" alt="" coords="383,379,588,405"/>
+<area shape="rect" href="$_transform_8hpp.html" title="SFML/Graphics/Transform.hpp" alt="" coords="663,379,860,405"/>
+<area shape="rect" href="$_rect_8hpp.html" title="SFML/Graphics/Rect.hpp" alt="" coords="916,453,1084,480"/>
+<area shape="rect" href="$_rect_8inl.html" title="SFML/Graphics/Rect.inl" alt="" coords="920,528,1080,555"/>
+<area shape="rect" href="$_vector2_8inl.html" title="SFML/System/Vector2.inl" alt="" coords="1108,603,1279,629"/>
+<area shape="rect" href="$_vertex_8hpp.html" title="SFML/Graphics/Vertex.hpp" alt="" coords="913,304,1092,331"/>
+<area shape="rect" href="$_primitive_type_8hpp.html" title="SFML/Graphics/PrimitiveType.hpp" alt="" coords="725,229,944,256"/>
+<area shape="rect" href="$_color_8hpp.html" title="SFML/Graphics/Color.hpp" alt="" coords="935,379,1105,405"/>
+</map>

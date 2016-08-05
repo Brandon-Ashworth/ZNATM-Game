@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_camera.html#a0413fe479db4685657b86fc4a16d3b6e" title="a set collection for this camera." alt="" coords="233,5,361,32"/>
+<area shape="rect" href="$classz_a_a_b_b.html#a00008df9499dc806f20d69e0fe8636e6" title="sets the xmin and xmax" alt="" coords="248,56,347,83"/>
+<area shape="rect" href="$classz_a_a_b_b.html#a54da755950647720090b336adb79283c" title="sets the y min and y max" alt="" coords="247,107,348,133"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ac8f36de97fb8b24251b098012023923f" title="set the Z minimum and Maximum" alt="" coords="248,157,347,184"/>
+<area shape="rect" href="$classz_camera.html#af8085efc682afb5ee0712635b23872a8" title="get x position of camera" alt="" coords="229,208,365,235"/>
+<area shape="rect" href="$classz_camera.html#a8a4691ca7f0777d7ac892de3a101b8e2" title="get camera y position" alt="" coords="229,259,365,285"/>
+<area shape="rect" href="$classz_camera.html#ac1d96969b9cbd0e4c0de83da47c82d43" title="get camera z position" alt="" coords="229,309,365,336"/>
+<area shape="rect" href="$classz_camera.html#abcc33c0a1d0e32d2a0bb46195780124e" title="gets x view position" alt="" coords="227,360,368,387"/>
+<area shape="rect" href="$classz_camera.html#a31cf428e65a37dd39c5ab75bf82fe37a" title="gets y view position" alt="" coords="227,411,368,437"/>
+<area shape="rect" href="$classz_camera.html#a138d8f9b7e464b7a2e9745d79b9147c8" title="gets z view position" alt="" coords="227,461,368,488"/>
+</map>

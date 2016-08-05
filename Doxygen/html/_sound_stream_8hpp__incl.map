@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$_audio_2_export_8hpp.html" title="SFML/Audio/Export.hpp" alt="" coords="5,155,165,181"/>
+<area shape="rect" href="$_sound_source_8hpp.html" title="SFML/Audio/SoundSource.hpp" alt="" coords="179,80,379,107"/>
+<area shape="rect" href="$_thread_8hpp.html" title="SFML/System/Thread.hpp" alt="" coords="483,80,656,107"/>
+<area shape="rect" href="$_time_8hpp.html" title="SFML/System/Time.hpp" alt="" coords="859,80,1021,107"/>
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="255,304,375,331"/>
+<area shape="rect" href="$_vector3_8hpp.html" title="SFML/System/Vector3.hpp" alt="" coords="189,155,368,181"/>
+<area shape="rect" href="$_vector3_8inl.html" title="SFML/System/Vector3.inl" alt="" coords="193,229,364,256"/>
+<area shape="rect" href="$_system_2_export_8hpp.html" title="SFML/System/Export.hpp" alt="" coords="425,229,596,256"/>
+<area shape="rect" href="$_non_copyable_8hpp.html" title="SFML/System/NonCopyable.hpp" alt="" coords="443,155,653,181"/>
+<area shape="rect" href="$_thread_8inl.html" title="SFML/System/Thread.inl" alt="" coords="677,155,843,181"/>
+</map>

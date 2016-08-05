@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_shape.html" title="Base class for textured shapes with outline." alt="" coords="160,80,235,107"/>
+<area shape="rect" href="$classsf_1_1_sprite.html" title="Drawable representation of a texture, with its own transformations, color, etc." alt="" coords="259,80,331,107"/>
+<area shape="rect" href="$classsf_1_1_text.html" title="Graphical text that can be drawn to a render target." alt="" coords="355,80,419,107"/>
+<area shape="rect" href="$classsf_1_1_vertex_array.html" title="Define a set of one or more 2D primitives." alt="" coords="443,80,549,107"/>
+<area shape="rect" href="$classsf_1_1_circle_shape.html" title="Specialized shape representing a circle." alt="" coords="5,155,115,181"/>
+<area shape="rect" href="$classsf_1_1_convex_shape.html" title="Specialized shape representing a convex polygon." alt="" coords="139,155,256,181"/>
+<area shape="rect" href="$classsf_1_1_rectangle_shape.html" title="Specialized shape representing a rectangle." alt="" coords="280,155,413,181"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_context.html" title="Class holding a valid drawing context." alt="" coords="188,5,271,32"/>
+<area shape="rect" href="$classsf_1_1_ftp.html" title="A FTP client." alt="" coords="200,56,259,83"/>
+<area shape="rect" href="$classsf_1_1_http.html" title="A HTTP client." alt="" coords="197,107,261,133"/>
+<area shape="rect" href="$classsf_1_1_lock.html" title="Automatic wrapper for locking and unlocking mutexes." alt="" coords="196,157,263,184"/>
+<area shape="rect" href="$classsf_1_1_mutex.html" title="Blocks concurrent access to shared resources from multiple threads." alt="" coords="192,208,267,235"/>
+<area shape="rect" href="$classsf_1_1_render_target.html" title="Base class for all render targets (window, texture, ...)" alt="" coords="172,259,287,285"/>
+<area shape="rect" href="$classsf_1_1_shader.html" title="Shader class (vertex and fragment)" alt="" coords="189,360,269,387"/>
+<area shape="rect" href="$classsf_1_1_socket.html" title="Base class for all the socket types." alt="" coords="189,411,269,437"/>
+<area shape="rect" href="$classsf_1_1_thread.html" title="Utility class to manipulate threads." alt="" coords="191,461,268,488"/>
+<area shape="rect" href="$classsf_1_1_thread_local.html" title="Defines variables with thread&#45;local storage." alt="" coords="175,512,284,539"/>
+<area shape="rect" href="$classsf_1_1_window.html" title="Window that serves as a target for OpenGL rendering." alt="" coords="187,309,272,336"/>
+<area shape="rect" href="$classsf_1_1_render_texture.html" title="Target for off&#45;screen 2D rendering into a texture." alt="" coords="353,259,476,285"/>
+<area shape="rect" href="$classsf_1_1_render_window.html" title="Window that can serve as a target for 2D drawing." alt="" coords="352,309,477,336"/>
+<area shape="rect" href="$classsf_1_1_tcp_listener.html" title="Socket that listens to new TCP connections." alt="" coords="361,360,468,387"/>
+<area shape="rect" href="$classsf_1_1_tcp_socket.html" title="Specialized socket using the TCP protocol." alt="" coords="364,411,465,437"/>
+<area shape="rect" href="$classsf_1_1_udp_socket.html" title="Specialized socket using the UDP protocol." alt="" coords="363,461,467,488"/>
+<area shape="rect" href="$classsf_1_1_thread_local_ptr.html" title="Pointer to a thread&#45;local variable." alt="" coords="336,512,493,539"/>
+</map>

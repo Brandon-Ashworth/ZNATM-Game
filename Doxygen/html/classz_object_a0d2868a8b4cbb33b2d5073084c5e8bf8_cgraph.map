@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_a_a_b_b.html#a68a2805cec89f3300c67371a71ef53b3" title="checks the collision" alt="" coords="223,144,353,171"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ac991ea1d968768a6f5499bc06847ccb3" title="retrieve the x Maximum" alt="" coords="425,5,551,32"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ae509972042beccfd19a0a91fd15db76a" title="retrieve the minimum x" alt="" coords="428,56,548,83"/>
+<area shape="rect" href="$classz_a_a_b_b.html#aafe0b5cda662e444d581db1517d3d384" title="gets the Maximum Z" alt="" coords="425,208,551,235"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ae3e49065c1f3ea4cb224c015edd3439e" title="gets the minimum Z" alt="" coords="428,259,548,285"/>
+<area shape="rect" href="$classz_zombie.html#af245e003fc786752ec085072680ead56" title="gets the X position" alt="" coords="225,296,351,323"/>
+<area shape="rect" href="$classz_zombie.html#aa3620f1a9e38da9cecfe7f522e4327fb" title="gets the X view" alt="" coords="223,347,353,373"/>
+<area shape="rect" href="$classz_zombie.html#aab4627199097114f1ece712efd15eda5" title="sets the zombie position" alt="" coords="228,397,348,424"/>
+<area shape="rect" href="$classz_zombie.html#a774eb37f564d88fe2c9eeb9080c50367" title="gets y position" alt="" coords="224,448,352,475"/>
+<area shape="rect" href="$classz_zombie.html#a4f9f434bb3321a275a4d29185e8cd0f2" title="gets z position" alt="" coords="225,499,351,525"/>
+<area shape="rect" href="$classz_zombie.html#a5689b2e68bab00e2672aa19b304b5e30" title="sets the zombie&#39;s view" alt="" coords="200,549,376,576"/>
+<area shape="rect" href="$classz_zombie.html#add6e0255a056df934e7a89390a88e38b" title="gets the Y View" alt="" coords="223,600,353,627"/>
+<area shape="rect" href="$classz_zombie.html#a6797c9cdce20e70631c449f314289f59" title="sets the zombies view" alt="" coords="200,651,376,677"/>
+<area shape="rect" href="$classz_zombie.html#a3d883ab3aca293333940d269a3f264bc" title="calculate the maximum and minimum" alt="" coords="215,701,361,728"/>
+<area shape="rect" href="$classz_a_a_b_b.html#adc5ad37d97db44791841506a8eb06840" title="gets the Y maximum" alt="" coords="424,157,552,184"/>
+<area shape="rect" href="$classz_a_a_b_b.html#aa36184b5bcf3b1644d67a418c0aec865" title="gets the y minimum" alt="" coords="427,107,549,133"/>
+<area shape="rect" href="$class_loader.html#af9c864b71a466155b7e7d1eb05a127ba" title="Moves the object slightly." alt="" coords="439,397,537,424"/>
+</map>

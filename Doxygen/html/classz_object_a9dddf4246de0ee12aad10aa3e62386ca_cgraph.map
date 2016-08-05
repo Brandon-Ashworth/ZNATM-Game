@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_a_a_b_b.html#a68a2805cec89f3300c67371a71ef53b3" title="checks the collision" alt="" coords="209,157,340,184"/>
+<area shape="rect" href="$classz_zombie.html#aba3a3708592106314f739fbfb421198f" title="get y minimum" alt="" coords="212,233,337,260"/>
+<area shape="rect" href="$classz_zombie.html#aab4627199097114f1ece712efd15eda5" title="sets the zombie position" alt="" coords="215,284,335,311"/>
+<area shape="rect" href="$classz_zombie.html#af245e003fc786752ec085072680ead56" title="gets the X position" alt="" coords="212,335,337,361"/>
+<area shape="rect" href="$classz_zombie.html#a774eb37f564d88fe2c9eeb9080c50367" title="gets y position" alt="" coords="211,385,339,412"/>
+<area shape="rect" href="$classz_zombie.html#a4f9f434bb3321a275a4d29185e8cd0f2" title="gets z position" alt="" coords="212,436,337,463"/>
+<area shape="rect" href="$classz_zombie.html#a3d883ab3aca293333940d269a3f264bc" title="calculate the maximum and minimum" alt="" coords="201,487,348,513"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ac991ea1d968768a6f5499bc06847ccb3" title="retrieve the x Maximum" alt="" coords="399,5,524,32"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ae509972042beccfd19a0a91fd15db76a" title="retrieve the minimum x" alt="" coords="401,56,521,83"/>
+<area shape="rect" href="$classz_a_a_b_b.html#adc5ad37d97db44791841506a8eb06840" title="gets the Y maximum" alt="" coords="397,107,525,133"/>
+<area shape="rect" href="$classz_a_a_b_b.html#aa36184b5bcf3b1644d67a418c0aec865" title="gets the y minimum" alt="" coords="400,157,523,184"/>
+<area shape="rect" href="$classz_a_a_b_b.html#aafe0b5cda662e444d581db1517d3d384" title="gets the Maximum Z" alt="" coords="399,208,524,235"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ae3e49065c1f3ea4cb224c015edd3439e" title="gets the minimum Z" alt="" coords="401,259,521,285"/>
+<area shape="rect" href="$class_loader.html#af9c864b71a466155b7e7d1eb05a127ba" title="Moves the object slightly." alt="" coords="412,309,511,336"/>
+</map>

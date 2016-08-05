@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$_graphics_2_export_8hpp.html" title="SFML/Graphics/Export.hpp" alt="" coords="5,229,184,256"/>
+<area shape="rect" href="$_render_states_8hpp.html" title="SFML/Graphics/RenderStates.hpp" alt="" coords="103,80,321,107"/>
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="35,304,155,331"/>
+<area shape="rect" href="$_blend_mode_8hpp.html" title="SFML/Graphics/BlendMode.hpp" alt="" coords="132,155,337,181"/>
+<area shape="rect" href="$_transform_8hpp.html" title="SFML/Graphics/Transform.hpp" alt="" coords="361,155,559,181"/>
+<area shape="rect" href="$_rect_8hpp.html" title="SFML/Graphics/Rect.hpp" alt="" coords="440,229,608,256"/>
+<area shape="rect" href="$_vector2_8hpp.html" title="SFML/System/Vector2.hpp" alt="" coords="299,304,477,331"/>
+<area shape="rect" href="$_rect_8inl.html" title="SFML/Graphics/Rect.inl" alt="" coords="600,304,760,331"/>
+<area shape="rect" href="$_vector2_8inl.html" title="SFML/System/Vector2.inl" alt="" coords="303,379,473,405"/>
+</map>

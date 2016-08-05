@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_collision.html#a2fc1f4a0be6b09684b7b79afc943a385" title="Collision::SetAABBMinY" alt="" coords="172,5,335,32"/>
+<area shape="rect" href="$class_camera.html#aa3b852f1208a5e2c9bfa0ee6d1c8e8cc" title="Camera::SetAABBMinY" alt="" coords="384,5,544,32"/>
+</map>

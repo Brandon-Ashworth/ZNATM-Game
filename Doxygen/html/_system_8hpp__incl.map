@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="433,379,553,405"/>
+<area shape="rect" href="$_clock_8hpp.html" title="SFML/System/Clock.hpp" alt="" coords="235,155,403,181"/>
+<area shape="rect" href="$_err_8hpp.html" title="SFML/System/Err.hpp" alt="" coords="121,80,273,107"/>
+<area shape="rect" href="$_input_stream_8hpp.html" title="SFML/System/InputStream.hpp" alt="" coords="205,304,408,331"/>
+<area shape="rect" href="$_lock_8hpp.html" title="SFML/System/Lock.hpp" alt="" coords="619,155,781,181"/>
+<area shape="rect" href="$_mutex_8hpp.html" title="SFML/System/Mutex.hpp" alt="" coords="805,155,976,181"/>
+<area shape="rect" href="$_sleep_8hpp.html" title="SFML/System/Sleep.hpp" alt="" coords="427,155,595,181"/>
+<area shape="rect" href="$_string_8hpp.html" title="SFML/System/String.hpp" alt="" coords="1661,155,1829,181"/>
+<area shape="rect" href="$_thread_8hpp.html" title="SFML/System/Thread.hpp" alt="" coords="1000,155,1173,181"/>
+<area shape="rect" href="$_thread_local_8hpp.html" title="SFML/System/ThreadLocal.hpp" alt="" coords="1197,155,1400,181"/>
+<area shape="rect" href="$_thread_local_ptr_8hpp.html" title="SFML/System/ThreadLocalPtr.hpp" alt="" coords="1188,80,1409,107"/>
+<area shape="rect" href="$_utf_8hpp.html" title="SFML/System/Utf.hpp" alt="" coords="1853,155,2003,181"/>
+<area shape="rect" href="$_vector2_8hpp.html" title="SFML/System/Vector2.hpp" alt="" coords="1744,80,1923,107"/>
+<area shape="rect" href="$_vector3_8hpp.html" title="SFML/System/Vector3.hpp" alt="" coords="2187,80,2365,107"/>
+<area shape="rect" href="$_system_2_export_8hpp.html" title="SFML/System/Export.hpp" alt="" coords="596,304,767,331"/>
+<area shape="rect" href="$_time_8hpp.html" title="SFML/System/Time.hpp" alt="" coords="429,229,592,256"/>
+<area shape="rect" href="$_non_copyable_8hpp.html" title="SFML/System/NonCopyable.hpp" alt="" coords="769,229,980,256"/>
+<area shape="rect" href="$_thread_8inl.html" title="SFML/System/Thread.inl" alt="" coords="1004,229,1169,256"/>
+<area shape="rect" href="$_thread_local_ptr_8inl.html" title="SFML/System/ThreadLocalPtr.inl" alt="" coords="1424,155,1637,181"/>
+<area shape="rect" href="$_utf_8inl.html" title="SFML/System/Utf.inl" alt="" coords="2007,229,2148,256"/>
+<area shape="rect" href="$_vector2_8inl.html" title="SFML/System/Vector2.inl" alt="" coords="2027,155,2197,181"/>
+<area shape="rect" href="$_vector3_8inl.html" title="SFML/System/Vector3.inl" alt="" coords="2221,155,2392,181"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" href="$_shay_world_8h.html" title="ShayWorld.h" alt="" coords="627,229,723,256"/>
+<area shape="rect" href="$freeglut_8h.html" title="freeglut.h" alt="" coords="723,453,797,480"/>
+<area shape="rect" href="$_m_t_l_8h.html" title="MTL.h" alt="" coords="1184,379,1240,405"/>
+<area shape="rect" href="$il_8h.html" title="../lib/IL/il.h" alt="" coords="91,453,171,480"/>
+<area shape="rect" href="$_z_n_a_t_m_8h.html" title="ZNATM\\ZNATM.h" alt="" coords="1425,80,1548,107"/>
+<area shape="rect" href="$_sound_8h.html" title="Sound.h" alt="" coords="2008,155,2077,181"/>
+<area shape="rect" href="$ilu_8h.html" title="lib\\IL\\ilu.h" alt="" coords="43,155,117,181"/>
+<area shape="rect" href="$ilut_8h.html" title="lib\\IL\\ilut.h" alt="" coords="117,80,197,107"/>
+<area shape="rect" href="$camera_8h.html" title="camera.h" alt="" coords="541,304,616,331"/>
+<area shape="rect" href="$textured_polygons_8h.html" title="texturedPolygons.h" alt="" coords="168,379,301,405"/>
+<area shape="rect" href="$_loader_8h.html" title="ZNATM\\Loader.h" alt="" coords="1360,304,1477,331"/>
+<area shape="rect" href="$freeglut__std_8h.html" title="freeglut_std.h" alt="" coords="559,528,657,555"/>
+<area shape="rect" href="$freeglut__ext_8h.html" title="freeglut_ext.h" alt="" coords="711,528,809,555"/>
+<area shape="rect" href="$collision_8h.html" title="collision.h" alt="" coords="520,379,600,405"/>
+<area shape="rect" href="$camera_map_8h.html" title="cameraMap.h" alt="" coords="624,379,723,405"/>
+<area shape="rect" href="$_plain_linked_list_8h.html" title="PlainLinkedList.h" alt="" coords="376,379,496,405"/>
+<area shape="rect" href="$typedef_8h.html" title="typedef.h" alt="" coords="1272,453,1347,480"/>
+<area shape="rect" href="$z_camera_8h.html" title="zCamera.h" alt="" coords="899,229,981,256"/>
+<area shape="rect" href="$z_a_a_b_b_8h.html" title="zAABB.h" alt="" coords="1605,304,1680,331"/>
+<area shape="rect" href="$z_object_8h.html" title="zObject.h" alt="" coords="1299,155,1376,181"/>
+<area shape="rect" href="$z_zombie_8h.html" title="zZombie.h" alt="" coords="1400,229,1480,256"/>
+<area shape="rect" href="$z_inventory_8h.html" title="zInventory.h" alt="" coords="1504,229,1595,256"/>
+<area shape="rect" href="$z_player_8h.html" title="zPlayer.h" alt="" coords="1808,155,1883,181"/>
+<area shape="rect" href="$z_key_8h.html" title="zKey.h" alt="" coords="1669,229,1731,256"/>
+<area shape="rect" href="$_audio_8hpp.html" title="SFML\\Audio.hpp" alt="" coords="2469,229,2587,256"/>
+<area shape="rect" href="$_system_8hpp.html" title="SFML/System.hpp" alt="" coords="2376,304,2507,331"/>
+<area shape="rect" href="$_listener_8hpp.html" title="SFML/Audio/Listener.hpp" alt="" coords="2531,304,2699,331"/>
+<area shape="rect" href="$_music_8hpp.html" title="SFML/Audio/Music.hpp" alt="" coords="2293,379,2451,405"/>
+<area shape="rect" href="$_sound_8hpp.html" title="SFML/Audio/Sound.hpp" alt="" coords="2723,304,2883,331"/>
+<area shape="rect" href="$_sound_buffer_8hpp.html" title="SFML/Audio/SoundBuffer.hpp" alt="" coords="2475,379,2667,405"/>
+<area shape="rect" href="$_sound_buffer_recorder_8hpp.html" title="SFML/Audio/SoundBufferRecorder.hpp" alt="" coords="2109,304,2352,331"/>
+<area shape="rect" href="$_sound_recorder_8hpp.html" title="SFML/Audio/SoundRecorder.hpp" alt="" coords="2008,379,2219,405"/>
+</map>

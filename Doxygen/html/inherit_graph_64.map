@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_sound_source.html" title="Base class defining a sound&#39;s properties." alt="" coords="5,31,123,57"/>
+<area shape="rect" href="$classsf_1_1_sound.html" title="Regular sound that can be played in the audio environment." alt="" coords="193,5,268,32"/>
+<area shape="rect" href="$classsf_1_1_sound_stream.html" title="Abstract base class for streamed audio sources." alt="" coords="172,56,289,83"/>
+<area shape="rect" href="$classsf_1_1_music.html" title="Streamed music played from an audio file." alt="" coords="339,56,413,83"/>
+</map>

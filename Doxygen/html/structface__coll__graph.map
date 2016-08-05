@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$structcoordinate.html" title="coordinate" alt="" coords="5,5,85,32"/>
+<area shape="rect" href="$structpoints.html" title="this typedef is for storing object data in an easy formate" alt="" coords="109,5,165,32"/>
+<area shape="rect" href="$structnormal.html" title="normal" alt="" coords="189,5,248,32"/>
+</map>

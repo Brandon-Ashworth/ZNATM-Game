@@ -1,0 +1,29 @@
+<map id="G" name="G">
+<area shape="rect" href="$_shay_world_8cpp.html#a5cfc0e1a6befcb997b31aeb74cff5b24" title="DrawGrass" alt="" coords="219,765,304,792"/>
+<area shape="rect" href="$_shay_world_8cpp.html#ac85f6bb2755f0f4240a22ca708e62d59" title="DrawChancPosts" alt="" coords="201,360,321,387"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a68c65dfc8421ca333a466d9c06707e60" title="DrawDoorPosts" alt="" coords="205,411,317,437"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a01e06eed52c63f0e2235773cf53790b1" title="DrawAboveWindowBlock" alt="" coords="180,461,343,488"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a9d09aa9a67f755ae16fdcf5f37a16b83" title="DrawPurplePosts" alt="" coords="201,512,321,539"/>
+<area shape="rect" href="$_shay_world_8cpp.html#aac6e408945214f82238126ce68cd97f4" title="DrawRedPosts" alt="" coords="208,563,315,589"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a96c27bd3994a411c6eefb383a6c8fccd" title="DrawPhysSciPosts" alt="" coords="195,613,328,640"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a4c2c0d2c5ec187eab216c4f71561f3ca" title="DrawDoorPaving" alt="" coords="204,664,319,691"/>
+<area shape="rect" href="$_shay_world_8cpp.html#aae6f0b30873fd5a5ab7e234ac50ef76a" title="DrawLibraryPosts" alt="" coords="200,816,323,843"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a7e94995d7022e4f3daf12a6f5d36ba9c" title="DrawMainPosts" alt="" coords="205,5,317,32"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a78b76ba919310a35d8bec7352df1597d" title="DrawPavement" alt="" coords="208,56,315,83"/>
+<area shape="rect" href="$_shay_world_8cpp.html#aeba093f3f408c98e1e6b19e0d2ec776f" title="DrawBricks" alt="" coords="217,917,305,944"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a2234e9eff7ea365201bbdbe594305fb3" title="DrawRoof" alt="" coords="224,1019,299,1045"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a789090901cc8a58eb8c82bd5ae5b2f6f" title="DrawEntranceSteps" alt="" coords="193,107,329,133"/>
+<area shape="rect" href="$_shay_world_8cpp.html#ae3621ca1936302aff614561ca3e98ba4" title="DrawExtras" alt="" coords="217,867,305,893"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a2e4468fa24959cfa401c98b3bb35f2ff" title="DrawLargerTextures" alt="" coords="193,968,329,995"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a4b9363811783571b9cd12a4ed0a88446" title="DrawLights" alt="" coords="219,157,304,184"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a8a8bda68350f32da8ec35a58264cc2f2" title="DrawBench" alt="" coords="217,208,305,235"/>
+<area shape="rect" href="$_shay_world_8cpp.html#aefaff786dac735e065d19b12f3c7704a" title="DrawStepBricks" alt="" coords="204,715,319,741"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a8d3f937f7670e188c632f00a1c3eb4fc" title="DrawCylinders" alt="" coords="209,259,313,285"/>
+<area shape="rect" href="$_shay_world_8cpp.html#adc7ad632689995464a6eed54b4adbbd0" title="DrawMapExit" alt="" coords="212,309,311,336"/>
+<area shape="rect" href="$class_textured_polygons.html#a4b21cfdd9a38b6026bc1f0e8bd2455a1" title="TexturedPolygons::CreateDisplayList" alt="" coords="408,512,643,539"/>
+<area shape="rect" href="$class_textured_polygons.html#a60c92fd32d48dc25bb93badc44ed2d01" title="TexturedPolygons::CreateAngledPolygon" alt="" coords="396,791,655,817"/>
+<area shape="rect" href="$class_textured_polygons.html#af5b832e3512d14a5f69f98707fe9c14e" title="TexturedPolygons::CreateXtoYWindowList" alt="" coords="393,917,657,944"/>
+<area shape="rect" href="$class_textured_polygons.html#af3a7080054a94bd1d237c1e8afe7c394" title="TexturedPolygons::CreateYtoZWindowList" alt="" coords="393,968,657,995"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a4b5fe2594c946a5547ecc2542751d9e2" title="DrawAngledRoofBeam" alt="" coords="451,1019,600,1045"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a91ef132c33a747723f5a6dd4f799c848" title="DrawAngledRoofBeam2" alt="" coords="447,1069,604,1096"/>
+</map>

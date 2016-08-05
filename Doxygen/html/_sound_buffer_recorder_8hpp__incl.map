@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$_audio_2_export_8hpp.html" title="SFML/Audio/Export.hpp" alt="" coords="575,155,735,181"/>
+<area shape="rect" href="$_sound_buffer_8hpp.html" title="SFML/Audio/SoundBuffer.hpp" alt="" coords="695,80,887,107"/>
+<area shape="rect" href="$_sound_recorder_8hpp.html" title="SFML/Audio/SoundRecorder.hpp" alt="" coords="409,80,620,107"/>
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="641,379,761,405"/>
+<area shape="rect" href="$_time_8hpp.html" title="SFML/System/Time.hpp" alt="" coords="563,229,725,256"/>
+<area shape="rect" href="$_system_2_export_8hpp.html" title="SFML/System/Export.hpp" alt="" coords="497,304,668,331"/>
+<area shape="rect" href="$_thread_8hpp.html" title="SFML/System/Thread.hpp" alt="" coords="292,155,465,181"/>
+<area shape="rect" href="$_non_copyable_8hpp.html" title="SFML/System/NonCopyable.hpp" alt="" coords="195,229,405,256"/>
+<area shape="rect" href="$_thread_8inl.html" title="SFML/System/Thread.inl" alt="" coords="5,229,171,256"/>
+</map>

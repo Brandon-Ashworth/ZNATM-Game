@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_texture.html" title="Image living on the graphics card that can be used for drawing." alt="" coords="25,96,108,123"/>
+<area shape="rect" href="$classsf_1_1_gl_resource.html" title="Base class for classes that require an OpenGL context." alt="" coords="5,5,112,32"/>
+<area shape="rect" href="$classsf_1_1_shader.html" title="Shader class (vertex and fragment)" alt="" coords="147,96,227,123"/>
+<area shape="rect" href="$classsf_1_1_non_copyable.html" title="Utility class that makes any derived class non&#45;copyable." alt="" coords="136,5,251,32"/>
+<area shape="rect" href="$structsf_1_1_shader_1_1_current_texture_type.html" title="Special type/value that can be passed to setParameter, and that represents the texture of the object ..." alt="" coords="275,5,475,32"/>
+<area shape="rect" href="$classsf_1_1_transform.html" title="Define a 3x3 transform matrix." alt="" coords="251,96,347,123"/>
+</map>

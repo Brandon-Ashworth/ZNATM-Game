@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" href="$_shay_world_8cpp.html#aa8cd6d1bc96097115cd520cf5aace8aa" title="DisplayAboveWindowBlock" alt="" coords="360,5,539,32"/>
+<area shape="rect" href="$_shay_world_8cpp.html#acdbb08ea8e4f244da7667f8d4b446931" title="DisplayBench" alt="" coords="399,56,500,83"/>
+<area shape="rect" href="$_shay_world_8cpp.html#aeca7ff199326c450f2610dda4db1a383" title="DisplayBricks" alt="" coords="399,107,500,133"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a3b5a2452d00ece9596afbd73289869df" title="DisplayChancPosts" alt="" coords="381,157,517,184"/>
+<area shape="rect" href="$_shay_world_8cpp.html#ae920cd83ae83affb74f791fd82d56238" title="DisplayCylinders" alt="" coords="391,208,508,235"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a9d353f4af09d7249821fea0d2efa0a3e" title="DisplayDoorPaving" alt="" coords="385,259,513,285"/>
+<area shape="rect" href="$_shay_world_8cpp.html#aecb18ee4ab174454e9f871580e957f70" title="DisplayDoorPosts" alt="" coords="387,309,512,336"/>
+<area shape="rect" href="$_shay_world_8cpp.html#aa4f2855878e58e20660a4b465fc6a5e1" title="DisplayEntranceSteps" alt="" coords="375,360,524,387"/>
+<area shape="rect" href="$_shay_world_8cpp.html#aa5653c56c0532cbed082b5faecfbd4a7" title="DisplayExtras" alt="" coords="399,411,500,437"/>
+<area shape="rect" href="$_shay_world_8cpp.html#af367155e48029aa7a2403c4be762dd51" title="DisplayGrass" alt="" coords="400,461,499,488"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a216b9249fef375124636403c3b1de0a4" title="DisplayLargerTextures" alt="" coords="161,512,311,539"/>
+<area shape="rect" href="$_shay_world_8cpp.html#ad2d5def0e7f72be3e0fc4c4d4bc04ba2" title="DisplayLibraryPosts" alt="" coords="168,563,304,589"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a188a1af620512db79422a43f11b554c2" title="DisplayMainPosts" alt="" coords="173,613,299,640"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a22a8ade3e5566ca3e55b429db32d5698" title="DisplayPavement" alt="" coords="176,664,296,691"/>
+<area shape="rect" href="$_shay_world_8cpp.html#addee97da245df1d8036ff2fa6722dbcb" title="DisplayPhysSciPosts" alt="" coords="163,715,309,741"/>
+<area shape="rect" href="$_shay_world_8cpp.html#ad0283b8d5685a55c308e48a4f4438f33" title="DisplayPurplePosts" alt="" coords="168,765,304,792"/>
+<area shape="rect" href="$_shay_world_8cpp.html#abf4857443bedfa39dadaa43d3fe1b8f1" title="DisplayRedPosts" alt="" coords="176,816,296,843"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a7e15fa0ab8f5cd3e2caac9722fad9c9e" title="DisplayRoof" alt="" coords="191,867,281,893"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a933055b1e041a63674f3cae2d905c981" title="DisplayStepBricks" alt="" coords="172,917,300,944"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a8f6d994eb65c10f5d1b2b6331a73fc5f" title="DisplayLights" alt="" coords="187,968,285,995"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a65d501d54ff1e4f4fb8c99b899558906" title="DrawMyOwnStuff" alt="" coords="176,1019,296,1045"/>
+<area shape="rect" href="$class_textured_polygons.html#af6694e3cbea65de23f5dcfab77a48b99" title="TexturedPolygons::GetTexture" alt="" coords="587,512,784,539"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a687516faadc3a1812f62c9ce371d8551" title="DrawPortableToilet" alt="" coords="385,1019,513,1045"/>
+</map>

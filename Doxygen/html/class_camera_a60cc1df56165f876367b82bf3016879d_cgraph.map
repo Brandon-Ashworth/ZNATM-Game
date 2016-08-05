@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_collision.html#a54a4c7409f13ac040768d41422e796de" title="Collision::GetAABBMaxX" alt="" coords="219,5,387,32"/>
+<area shape="rect" href="$class_a_a_b_b.html#a96d56ed1be5ba2a151b82c508d9149a2" title="AABB::GetMaxX" alt="" coords="436,5,553,32"/>
+</map>

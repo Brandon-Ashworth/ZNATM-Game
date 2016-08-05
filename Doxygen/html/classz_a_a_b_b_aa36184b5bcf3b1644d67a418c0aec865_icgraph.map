@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_a_a_b_b.html#a68a2805cec89f3300c67371a71ef53b3" title="checks the collision" alt="" coords="180,259,311,285"/>
+<area shape="rect" href="$classz_object.html#aa5d53750a61dad200607b300d803ae3d" title="zObject::collideStatic" alt="" coords="375,5,519,32"/>
+<area shape="rect" href="$classz_object.html#a72b181631aa0a5ebe9fa421741163a27" title="zObject::collideZStatic" alt="" coords="371,512,523,539"/>
+<area shape="rect" href="$classz_object.html#a419a0cb8d07b05a1b61897ab19240977" title="zObject::collideStoryKey" alt="" coords="364,56,529,83"/>
+<area shape="rect" href="$classz_object.html#a443decb5eca4f985a0ba52afc73f9922" title="zObject::collideDoor" alt="" coords="377,107,516,133"/>
+<area shape="rect" href="$classz_object.html#afdb69da27134cd32a928e3675194890f" title="zObject::collideStair" alt="" coords="377,157,516,184"/>
+<area shape="rect" href="$classz_object.html#a95ec19e7631fd73526ef487182ec9330" title="zObject::collideFirstDoor" alt="" coords="365,208,528,235"/>
+<area shape="rect" href="$classz_object.html#a0f0548ba92d12f41dcb9c40d14682e65" title="zObject::collideZFirstDoor" alt="" coords="361,259,532,285"/>
+<area shape="rect" href="$classz_object.html#a0d2868a8b4cbb33b2d5073084c5e8bf8" title="zObject::collideZDoor" alt="" coords="375,309,519,336"/>
+<area shape="rect" href="$classz_object.html#a9dddf4246de0ee12aad10aa3e62386ca" title="zObject::collideZStair" alt="" coords="375,360,519,387"/>
+<area shape="rect" href="$classz_object.html#a96caf6332facb4595b59c1f321124dc1" title="zObject::collidePipe" alt="" coords="379,411,515,437"/>
+<area shape="rect" href="$classz_object.html#a43a68a456b84d9c320875c5734020a13" title="zObject::collideStoryDoor" alt="" coords="363,461,531,488"/>
+</map>

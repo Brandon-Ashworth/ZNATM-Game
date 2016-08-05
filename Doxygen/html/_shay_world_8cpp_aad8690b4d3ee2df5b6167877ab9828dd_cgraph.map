@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_textured_polygons.html#af6694e3cbea65de23f5dcfab77a48b99" title="TexturedPolygons::GetTexture" alt="" coords="131,5,328,32"/>
+<area shape="rect" href="$class_camera.html#a5d71756678367cc9ef6d3186dff7e821" title="Camera::GetLR" alt="" coords="173,56,285,83"/>
+<area shape="rect" href="$class_camera.html#acaa842acd09e3a18c409ddc0c89cf808" title="Camera::GetUD" alt="" coords="173,107,285,133"/>
+<area shape="rect" href="$class_camera.html#a2c82b9713e7cc1fb77130aad72728478" title="Camera::GetFB" alt="" coords="173,157,285,184"/>
+</map>

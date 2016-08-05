@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_inventory.html#a2077e29643b646b8468d61780b6b8047" title="zInventory::setItem1XYZ" alt="" coords="152,5,312,32"/>
+<area shape="rect" href="$classz_inventory.html#a07d363cee5fdc45815f82c9e75f92e42" title="zInventory::setItem2XYZ" alt="" coords="152,56,312,83"/>
+<area shape="rect" href="$classz_key.html#aba4f10d0cee6fff766ecb5d19e11ed6f" title="sets the position of the object" alt="" coords="183,107,281,133"/>
+<area shape="rect" href="$classz_zombie.html#aab4627199097114f1ece712efd15eda5" title="sets the zombie position" alt="" coords="172,157,292,184"/>
+<area shape="rect" href="$classz_zombie.html#a0276d094b42496093ed6aff8eb2cc178" title="sets the zombie to walk speed" alt="" coords="180,208,284,235"/>
+<area shape="rect" href="$classz_zombie.html#aed297e5daa9a57724b01f1783e01945d" title="sets the zombie to run speed" alt="" coords="184,259,280,285"/>
+<area shape="rect" href="$classz_zombie.html#a829c950978b3d8b3e043a43a046f1be9" title="calculate y velocity" alt="" coords="167,309,297,336"/>
+<area shape="rect" href="$classz_object.html#a0f0548ba92d12f41dcb9c40d14682e65" title="zObject::collideZFirstDoor" alt="" coords="361,81,532,108"/>
+<area shape="rect" href="$classz_object.html#a72b181631aa0a5ebe9fa421741163a27" title="zObject::collideZStatic" alt="" coords="371,132,523,159"/>
+<area shape="rect" href="$classz_object.html#a0d2868a8b4cbb33b2d5073084c5e8bf8" title="zObject::collideZDoor" alt="" coords="375,183,519,209"/>
+<area shape="rect" href="$classz_object.html#a9dddf4246de0ee12aad10aa3e62386ca" title="zObject::collideZStair" alt="" coords="375,233,519,260"/>
+</map>

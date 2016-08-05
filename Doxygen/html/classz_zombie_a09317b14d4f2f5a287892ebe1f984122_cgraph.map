@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_zombie.html#a5689b2e68bab00e2672aa19b304b5e30" title="sets the zombie&#39;s view" alt="" coords="243,5,419,32"/>
+<area shape="rect" href="$classz_zombie.html#af245e003fc786752ec085072680ead56" title="gets the X position" alt="" coords="268,56,393,83"/>
+<area shape="rect" href="$classz_zombie.html#a6797c9cdce20e70631c449f314289f59" title="sets the zombies view" alt="" coords="243,107,419,133"/>
+<area shape="rect" href="$classz_zombie.html#a4f9f434bb3321a275a4d29185e8cd0f2" title="gets z position" alt="" coords="268,157,393,184"/>
+</map>

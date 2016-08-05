@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_object.html#a0f0548ba92d12f41dcb9c40d14682e65" title="zObject::collideZFirstDoor" alt="" coords="183,5,353,32"/>
+<area shape="rect" href="$classz_object.html#a72b181631aa0a5ebe9fa421741163a27" title="zObject::collideZStatic" alt="" coords="192,56,344,83"/>
+<area shape="rect" href="$classz_object.html#a0d2868a8b4cbb33b2d5073084c5e8bf8" title="zObject::collideZDoor" alt="" coords="196,107,340,133"/>
+<area shape="rect" href="$classz_object.html#a9dddf4246de0ee12aad10aa3e62386ca" title="zObject::collideZStair" alt="" coords="196,157,340,184"/>
+</map>

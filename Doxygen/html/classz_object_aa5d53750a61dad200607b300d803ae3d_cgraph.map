@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_a_a_b_b.html#a68a2805cec89f3300c67371a71ef53b3" title="checks the collision" alt="" coords="205,153,336,180"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ac991ea1d968768a6f5499bc06847ccb3" title="retrieve the x Maximum" alt="" coords="391,5,516,32"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ae509972042beccfd19a0a91fd15db76a" title="retrieve the minimum x" alt="" coords="393,63,513,89"/>
+<area shape="rect" href="$classz_a_a_b_b.html#adc5ad37d97db44791841506a8eb06840" title="gets the Y maximum" alt="" coords="389,125,517,152"/>
+<area shape="rect" href="$classz_a_a_b_b.html#aa36184b5bcf3b1644d67a418c0aec865" title="gets the y minimum" alt="" coords="392,201,515,228"/>
+<area shape="rect" href="$classz_a_a_b_b.html#aafe0b5cda662e444d581db1517d3d384" title="gets the Maximum Z" alt="" coords="391,253,516,280"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ae3e49065c1f3ea4cb224c015edd3439e" title="gets the minimum Z" alt="" coords="393,304,513,331"/>
+<area shape="rect" href="$classz_camera.html#af8085efc682afb5ee0712635b23872a8" title="get x position of camera" alt="" coords="203,356,339,383"/>
+<area shape="rect" href="$classz_camera.html#abcc33c0a1d0e32d2a0bb46195780124e" title="gets x view position" alt="" coords="200,407,341,433"/>
+<area shape="rect" href="$classz_camera.html#af37ae73786c39f38ee5f49b44bc78e6b" title="sets camera x position" alt="" coords="203,457,339,484"/>
+<area shape="rect" href="$classz_camera.html#ab82997b242dab96169963e9d9bb23a2a" title="sets x view Position" alt="" coords="200,508,341,535"/>
+<area shape="rect" href="$classz_camera.html#a8a4691ca7f0777d7ac892de3a101b8e2" title="get camera y position" alt="" coords="203,559,339,585"/>
+<area shape="rect" href="$classz_camera.html#a31cf428e65a37dd39c5ab75bf82fe37a" title="gets y view position" alt="" coords="200,609,341,636"/>
+<area shape="rect" href="$classz_camera.html#a9e4a1b20e8e04bad39e6abbbf65cbca6" title="set the y velocity" alt="" coords="205,660,336,687"/>
+<area shape="rect" href="$classz_camera.html#a14f908289577677e823ceaaa011927d8" title="sets camera y position" alt="" coords="203,711,339,737"/>
+<area shape="rect" href="$classz_camera.html#ab937e7f90f02aa44b948bd554c1e866a" title="sets y view position" alt="" coords="200,761,341,788"/>
+<area shape="rect" href="$classz_camera.html#ac1d96969b9cbd0e4c0de83da47c82d43" title="get camera z position" alt="" coords="203,812,339,839"/>
+<area shape="rect" href="$classz_camera.html#a138d8f9b7e464b7a2e9745d79b9147c8" title="gets z view position" alt="" coords="200,863,341,889"/>
+<area shape="rect" href="$classz_camera.html#af9c4b095092c81edbf5acafd38795599" title="sets camera z position" alt="" coords="203,913,339,940"/>
+<area shape="rect" href="$classz_camera.html#a4299070abc96a3f2767856b1db6d5d35" title="sets z view position" alt="" coords="200,964,341,991"/>
+</map>

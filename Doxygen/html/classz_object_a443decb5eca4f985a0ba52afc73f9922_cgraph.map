@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_a_a_b_b.html#a68a2805cec89f3300c67371a71ef53b3" title="checks the collision" alt="" coords="197,151,328,177"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ac991ea1d968768a6f5499bc06847ccb3" title="retrieve the x Maximum" alt="" coords="383,5,508,32"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ae509972042beccfd19a0a91fd15db76a" title="retrieve the minimum x" alt="" coords="385,56,505,83"/>
+<area shape="rect" href="$classz_a_a_b_b.html#aafe0b5cda662e444d581db1517d3d384" title="gets the Maximum Z" alt="" coords="383,208,508,235"/>
+<area shape="rect" href="$classz_a_a_b_b.html#ae3e49065c1f3ea4cb224c015edd3439e" title="gets the minimum Z" alt="" coords="385,259,505,285"/>
+<area shape="rect" href="$classz_inventory.html#a7112312f64d4de997eef05ce76d28274" title="checks to see how many silver key the player has" alt="" coords="195,303,331,329"/>
+<area shape="rect" href="$classz_camera.html#af8085efc682afb5ee0712635b23872a8" title="get x position of camera" alt="" coords="195,353,331,380"/>
+<area shape="rect" href="$classz_camera.html#abcc33c0a1d0e32d2a0bb46195780124e" title="gets x view position" alt="" coords="192,404,333,431"/>
+<area shape="rect" href="$classz_camera.html#af37ae73786c39f38ee5f49b44bc78e6b" title="sets camera x position" alt="" coords="195,455,331,481"/>
+<area shape="rect" href="$classz_camera.html#ab82997b242dab96169963e9d9bb23a2a" title="sets x view Position" alt="" coords="192,505,333,532"/>
+<area shape="rect" href="$classz_camera.html#ac1d96969b9cbd0e4c0de83da47c82d43" title="get camera z position" alt="" coords="195,556,331,583"/>
+<area shape="rect" href="$classz_camera.html#a138d8f9b7e464b7a2e9745d79b9147c8" title="gets z view position" alt="" coords="192,607,333,633"/>
+<area shape="rect" href="$classz_camera.html#af9c4b095092c81edbf5acafd38795599" title="sets camera z position" alt="" coords="195,657,331,684"/>
+<area shape="rect" href="$classz_camera.html#a4299070abc96a3f2767856b1db6d5d35" title="sets z view position" alt="" coords="192,708,333,735"/>
+<area shape="rect" href="$classz_inventory.html#aa73850975cc745abe660e0fd6af49e86" title="adds keys to the inventory" alt="" coords="193,759,332,785"/>
+<area shape="rect" href="$classz_a_a_b_b.html#adc5ad37d97db44791841506a8eb06840" title="gets the Y maximum" alt="" coords="381,107,509,133"/>
+<area shape="rect" href="$classz_a_a_b_b.html#aa36184b5bcf3b1644d67a418c0aec865" title="gets the y minimum" alt="" coords="384,157,507,184"/>
+</map>

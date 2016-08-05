@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" href="$_graphics_2_export_8hpp.html" title="SFML/Graphics/Export.hpp" alt="" coords="887,304,1065,331"/>
+<area shape="rect" href="$_texture_8hpp.html" title="SFML/Graphics/Texture.hpp" alt="" coords="1455,80,1639,107"/>
+<area shape="rect" href="$_render_target_8hpp.html" title="SFML/Graphics/RenderTarget.hpp" alt="" coords="648,80,867,107"/>
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="1524,379,1644,405"/>
+<area shape="rect" href="$_image_8hpp.html" title="SFML/Graphics/Image.hpp" alt="" coords="1279,155,1455,181"/>
+<area shape="rect" href="$_gl_resource_8hpp.html" title="SFML/Window/GlResource.hpp" alt="" coords="1764,229,1967,256"/>
+<area shape="rect" href="$_color_8hpp.html" title="SFML/Graphics/Color.hpp" alt="" coords="913,229,1084,256"/>
+<area shape="rect" href="$_rect_8hpp.html" title="SFML/Graphics/Rect.hpp" alt="" coords="137,304,305,331"/>
+<area shape="rect" href="$_vector2_8hpp.html" title="SFML/System/Vector2.hpp" alt="" coords="299,379,477,405"/>
+<area shape="rect" href="$_rect_8inl.html" title="SFML/Graphics/Rect.inl" alt="" coords="5,379,165,405"/>
+<area shape="rect" href="$_vector2_8inl.html" title="SFML/System/Vector2.inl" alt="" coords="303,453,473,480"/>
+<area shape="rect" href="$_window_2_export_8hpp.html" title="SFML/Window/Export.hpp" alt="" coords="1736,304,1909,331"/>
+<area shape="rect" href="$_view_8hpp.html" title="SFML/Graphics/View.hpp" alt="" coords="196,155,364,181"/>
+<area shape="rect" href="$_transform_8hpp.html" title="SFML/Graphics/Transform.hpp" alt="" coords="159,229,356,256"/>
+<area shape="rect" href="$_blend_mode_8hpp.html" title="SFML/Graphics/BlendMode.hpp" alt="" coords="583,229,788,256"/>
+<area shape="rect" href="$_render_states_8hpp.html" title="SFML/Graphics/RenderStates.hpp" alt="" coords="439,155,657,181"/>
+<area shape="rect" href="$_primitive_type_8hpp.html" title="SFML/Graphics/PrimitiveType.hpp" alt="" coords="985,155,1204,181"/>
+<area shape="rect" href="$_vertex_8hpp.html" title="SFML/Graphics/Vertex.hpp" alt="" coords="732,155,911,181"/>
+<area shape="rect" href="$_non_copyable_8hpp.html" title="SFML/System/NonCopyable.hpp" alt="" coords="1479,155,1689,181"/>
+<area shape="rect" href="$_system_2_export_8hpp.html" title="SFML/System/Export.hpp" alt="" coords="1499,304,1669,331"/>
+</map>

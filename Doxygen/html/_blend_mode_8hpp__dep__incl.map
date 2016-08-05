@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" href="$_render_states_8hpp.html" title="SFML/SFML/Graphics/RenderStates.hpp" alt="" coords="880,80,1139,107"/>
+<area shape="rect" href="$_graphics_8hpp.html" title="SFML/SFML/Graphics.hpp" alt="" coords="852,453,1028,480"/>
+<area shape="rect" href="$_render_target_8hpp.html" title="SFML/SFML/Graphics/RenderTarget.hpp" alt="" coords="1049,155,1305,181"/>
+<area shape="rect" href="$_drawable_8hpp.html" title="SFML/SFML/Graphics/Drawable.hpp" alt="" coords="647,155,879,181"/>
+<area shape="rect" href="$_shape_8hpp.html" title="SFML/SFML/Graphics/Shape.hpp" alt="" coords="496,304,712,331"/>
+<area shape="rect" href="$_sprite_8hpp.html" title="SFML/SFML/Graphics/Sprite.hpp" alt="" coords="67,304,280,331"/>
+<area shape="rect" href="$_text_8hpp.html" title="SFML/SFML/Graphics/Text.hpp" alt="" coords="800,304,1005,331"/>
+<area shape="rect" href="$_vertex_array_8hpp.html" title="SFML/SFML/Graphics/VertexArray.hpp" alt="" coords="639,229,887,256"/>
+<area shape="rect" href="$_circle_shape_8hpp.html" title="SFML/SFML/Graphics/CircleShape.hpp" alt="" coords="319,379,569,405"/>
+<area shape="rect" href="$_convex_shape_8hpp.html" title="SFML/SFML/Graphics/ConvexShape.hpp" alt="" coords="644,379,903,405"/>
+<area shape="rect" href="$_rectangle_shape_8hpp.html" title="SFML/SFML/Graphics/RectangleShape.hpp" alt="" coords="20,379,295,405"/>
+<area shape="rect" href="$_render_texture_8hpp.html" title="SFML/SFML/Graphics/RenderTexture.hpp" alt="" coords="1045,229,1309,256"/>
+<area shape="rect" href="$_render_window_8hpp.html" title="SFML/SFML/Graphics/RenderWindow.hpp" alt="" coords="1333,229,1600,256"/>
+</map>

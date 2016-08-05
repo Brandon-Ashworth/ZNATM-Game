@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_collision.html#a33c7681e88ca6ab89ae53b6342aed6f2" title="Collision::SetNoBoundingBoxes" alt="" coords="245,5,451,32"/>
+<area shape="rect" href="$class_camera.html#a043549232a16c18fe93f35c5d3a40fe2" title="Camera::SetNoBoundingBoxes" alt="" coords="500,5,700,32"/>
+<area shape="rect" href="$class_shay_world.html#a0155c07d1a8395347ac74b83a6b11382" title="ShayWorld::myinit" alt="" coords="749,5,877,32"/>
+<area shape="rect" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="927,5,975,32"/>
+</map>

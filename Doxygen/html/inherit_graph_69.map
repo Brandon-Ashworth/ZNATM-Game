@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_drawable.html" title="Abstract base class for objects that can be drawn to a render target." alt="" coords="20,157,111,184"/>
+<area shape="rect" href="$classsf_1_1_shape.html" title="Base class for textured shapes with outline." alt="" coords="191,56,265,83"/>
+<area shape="rect" href="$classsf_1_1_sprite.html" title="Drawable representation of a texture, with its own transformations, color, etc." alt="" coords="192,107,264,133"/>
+<area shape="rect" href="$classsf_1_1_text.html" title="Graphical text that can be drawn to a render target." alt="" coords="196,157,260,184"/>
+<area shape="rect" href="$classsf_1_1_vertex_array.html" title="Define a set of one or more 2D primitives." alt="" coords="175,208,281,235"/>
+<area shape="rect" href="$classsf_1_1_circle_shape.html" title="Specialized shape representing a circle." alt="" coords="344,5,453,32"/>
+<area shape="rect" href="$classsf_1_1_convex_shape.html" title="Specialized shape representing a convex polygon." alt="" coords="340,56,457,83"/>
+<area shape="rect" href="$classsf_1_1_rectangle_shape.html" title="Specialized shape representing a rectangle." alt="" coords="332,107,465,133"/>
+<area shape="rect" href="$classsf_1_1_transformable.html" title="Decomposed transform defined by a position, a rotation and a scale." alt="" coords="5,107,125,133"/>
+</map>

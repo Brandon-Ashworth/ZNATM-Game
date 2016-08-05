@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$_window_2_export_8hpp.html" title="SFML/Window/Export.hpp" alt="" coords="333,155,507,181"/>
+<area shape="rect" href="$_context_settings_8hpp.html" title="SFML/Window/ContextSettings.hpp" alt="" coords="24,80,251,107"/>
+<area shape="rect" href="$_video_mode_8hpp.html" title="SFML/Window/VideoMode.hpp" alt="" coords="501,80,701,107"/>
+<area shape="rect" href="$_window_handle_8hpp.html" title="SFML/Window/WindowHandle.hpp" alt="" coords="771,229,992,256"/>
+<area shape="rect" href="$_window_style_8hpp.html" title="SFML/Window/WindowStyle.hpp" alt="" coords="725,80,936,107"/>
+<area shape="rect" href="$_gl_resource_8hpp.html" title="SFML/Window/GlResource.hpp" alt="" coords="275,80,477,107"/>
+<area shape="rect" href="$_clock_8hpp.html" title="SFML/System/Clock.hpp" alt="" coords="1485,80,1653,107"/>
+<area shape="rect" href="$_vector2_8hpp.html" title="SFML/System/Vector2.hpp" alt="" coords="1069,80,1248,107"/>
+<area shape="rect" href="$_non_copyable_8hpp.html" title="SFML/System/NonCopyable.hpp" alt="" coords="919,155,1129,181"/>
+<area shape="rect" href="$_string_8hpp.html" title="SFML/System/String.hpp" alt="" coords="1287,80,1455,107"/>
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="821,304,941,331"/>
+<area shape="rect" href="$_system_2_export_8hpp.html" title="SFML/System/Export.hpp" alt="" coords="1276,229,1447,256"/>
+<area shape="rect" href="$_time_8hpp.html" title="SFML/System/Time.hpp" alt="" coords="1607,155,1769,181"/>
+<area shape="rect" href="$_vector2_8inl.html" title="SFML/System/Vector2.inl" alt="" coords="1153,155,1324,181"/>
+</map>

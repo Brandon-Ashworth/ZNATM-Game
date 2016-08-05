@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" href="$devil__internal__exports_8h.html" title="lib/IL/devil_internal_exports.h" alt="" coords="5,80,192,107"/>
+<area shape="rect" href="$ilu_8h.html" title="lib/IL/ilu.h" alt="" coords="267,80,341,107"/>
+<area shape="rect" href="$ilut_8h.html" title="lib/IL/ilut.h" alt="" coords="333,155,413,181"/>
+<area shape="rect" href="$main_8cpp.html" title="main.cpp" alt="" coords="447,453,521,480"/>
+<area shape="rect" href="$_m_t_l_8h.html" title="ZNATM/MTL.h" alt="" coords="631,80,735,107"/>
+<area shape="rect" href="$il__wrap_8h.html" title="lib/IL/il_wrap.h" alt="" coords="317,229,421,256"/>
+<area shape="rect" href="$_loader_8h.html" title="ZNATM/Loader.h" alt="" coords="799,155,916,181"/>
+<area shape="rect" href="$_m_t_l_8cpp.html" title="ZNATM/MTL.cpp" alt="" coords="940,155,1057,181"/>
+<area shape="rect" href="$_shay_world_8h.html" title="ShayWorld.h" alt="" coords="604,229,700,256"/>
+<area shape="rect" href="$z_object_8h.html" title="ZNATM/zObject.h" alt="" coords="1144,304,1267,331"/>
+<area shape="rect" href="$z_zombie_8h.html" title="ZNATM/zZombie.h" alt="" coords="1019,229,1147,256"/>
+<area shape="rect" href="$z_inventory_8h.html" title="ZNATM/zInventory.h" alt="" coords="1232,229,1368,256"/>
+<area shape="rect" href="$z_key_8h.html" title="ZNATM/zKey.h" alt="" coords="731,229,840,256"/>
+<area shape="rect" href="$_loader_8cpp.html" title="ZNATM/Loader.cpp" alt="" coords="864,229,995,256"/>
+<area shape="rect" href="$_shay_world_8cpp.html" title="ShayWorld.cpp" alt="" coords="597,304,707,331"/>
+<area shape="rect" href="$_z_n_a_t_m_8h.html" title="ZNATM/ZNATM.h" alt="" coords="880,379,1003,405"/>
+<area shape="rect" href="$z_object_8cpp.html" title="ZNATM/zObject.cpp" alt="" coords="1136,379,1275,405"/>
+<area shape="rect" href="$_z_n_a_t_m_8cpp.html" title="ZNATM/ZNATM.cpp" alt="" coords="873,453,1009,480"/>
+<area shape="rect" href="$z_zombie_8cpp.html" title="ZNATM/zZombie.cpp" alt="" coords="979,304,1120,331"/>
+<area shape="rect" href="$z_inventory_8cpp.html" title="ZNATM/zInventory.cpp" alt="" coords="1341,304,1493,331"/>
+<area shape="rect" href="$z_key_8cpp.html" title="ZNATM/zKey.cpp" alt="" coords="731,304,853,331"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_drawable.html" title="Abstract base class for objects that can be drawn to a render target." alt="" coords="5,5,96,32"/>
+<area shape="rect" href="$classsf_1_1_transformable.html" title="Decomposed transform defined by a position, a rotation and a scale." alt="" coords="120,5,240,32"/>
+</map>

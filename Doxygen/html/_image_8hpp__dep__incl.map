@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$_render_window_8hpp.html" title="SFML/SFML/Graphics/RenderWindow.hpp" alt="" coords="5,229,272,256"/>
+<area shape="rect" href="$_graphics_8hpp.html" title="SFML/SFML/Graphics.hpp" alt="" coords="297,304,473,331"/>
+<area shape="rect" href="$_texture_8hpp.html" title="SFML/SFML/Graphics/Texture.hpp" alt="" coords="367,80,591,107"/>
+<area shape="rect" href="$_font_8hpp.html" title="SFML/SFML/Graphics/Font.hpp" alt="" coords="397,155,603,181"/>
+<area shape="rect" href="$_render_texture_8hpp.html" title="SFML/SFML/Graphics/RenderTexture.hpp" alt="" coords="627,155,891,181"/>
+<area shape="rect" href="$_text_8hpp.html" title="SFML/SFML/Graphics/Text.hpp" alt="" coords="448,229,653,256"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$_socket_8hpp.html" title="SFML/SFML/Network/Socket.hpp" alt="" coords="312,80,528,107"/>
+<area shape="rect" href="$_tcp_listener_8hpp.html" title="SFML/SFML/Network/TcpListener.hpp" alt="" coords="5,229,248,256"/>
+<area shape="rect" href="$_tcp_socket_8hpp.html" title="SFML/SFML/Network/TcpSocket.hpp" alt="" coords="301,155,539,181"/>
+<area shape="rect" href="$_udp_socket_8hpp.html" title="SFML/SFML/Network/UdpSocket.hpp" alt="" coords="611,155,851,181"/>
+<area shape="rect" href="$_network_8hpp.html" title="SFML/SFML/Network.hpp" alt="" coords="335,304,505,331"/>
+<area shape="rect" href="$_ftp_8hpp.html" title="SFML/SFML/Network/Ftp.hpp" alt="" coords="323,229,517,256"/>
+<area shape="rect" href="$_http_8hpp.html" title="SFML/SFML/Network/Http.hpp" alt="" coords="541,229,741,256"/>
+</map>

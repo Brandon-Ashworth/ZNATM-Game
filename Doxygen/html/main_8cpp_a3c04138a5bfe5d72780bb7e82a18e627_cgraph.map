@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_sound.html#a5825b2c93a68de38ee7bdea0a3201165" title="location of the sound file" alt="" coords="421,411,515,437"/>
+<area shape="rect" href="$class_sound.html#ab4814798a8b973e3a4c729b7f3fff640" title="Sets the repeat to true or false." alt="" coords="415,1272,521,1299"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#abc547c43592e2ce465a58abed544f282" title="glutInit" alt="" coords="179,993,237,1020"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a1082eda6b270a765d2d8f4f839cf728c" title="glutInitDisplayMode" alt="" coords="141,1044,275,1071"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a110614b330069d2ae48de1d0ef04519b" title="glutInitWindowPosition" alt="" coords="132,1095,284,1121"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#af3be2e60d17964dfe49a67b37d9deba5" title="glutInitWindowSize" alt="" coords="143,1145,273,1172"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#aea4ae15d87a833997b1f72d5e4a1a58e" title="glutCreateWindow" alt="" coords="145,1196,271,1223"/>
+<area shape="rect" href="$il_8h.html#a21ddd3621df6a2e12c66df6b350409d9" title="ilInit" alt="" coords="187,1247,229,1273"/>
+<area shape="rect" href="$ilu_8h.html#a16e7499605f4c0d48e6689cc58144e5b" title="iluInit" alt="" coords="183,1297,233,1324"/>
+<area shape="rect" href="$ilut_8h.html#a0ff2d8eaf788cfbeca6a3b01c05b463a" title="ilutInit" alt="" coords="180,1348,236,1375"/>
+<area shape="rect" href="$ilut_8h.html#a83b18a24f809aa2238fdb9c7c23aaa37" title="ilutRenderer" alt="" coords="163,1399,253,1425"/>
+<area shape="rect" href="$_debug_2freeglut__ext_8h.html#a18f94be444502efce3eee0ca1c5fd5b3" title="glutSetOption" alt="" coords="159,1449,257,1476"/>
+<area shape="rect" href="$class_shay_world.html#a92ec54f05707c6fdaeef7eb8999c4f28" title="ShayWorld::getTransition" alt="" coords="124,1500,292,1527"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a95949b291c9c776c3462107d33c3cd95" title="glutSetCursor" alt="" coords="159,1551,257,1577"/>
+<area shape="rect" href="$class_shay_world.html#a0155c07d1a8395347ac74b83a6b11382" title="ShayWorld::myinit" alt="" coords="144,512,272,539"/>
+<area shape="rect" href="$_debug_2freeglut__ext_8h.html#a6ab07848a855e45793d05bcce93faba3" title="glutMainLoopEvent" alt="" coords="143,1601,273,1628"/>
+<area shape="rect" href="$class_shay_world.html#a1bb7ac5b490166b2e21c665de2a29b6d" title="ShayWorld::Step" alt="" coords="148,1652,268,1679"/>
+<area shape="rect" href="$class_zombie_night.html#a7557aaa06c3752230980a7a45e8220c8" title="ZombieNight::getTransition" alt="" coords="120,1703,296,1729"/>
+<area shape="rect" href="$class_zombie_night.html#ad24fa0a2e0d408249e750437ba16a1ca" title="ZombieNight::initialize" alt="" coords="135,892,281,919"/>
+<area shape="rect" href="$class_zombie_night.html#a2cc02c1c63b25710334fe88b0f1370ae" title="ZombieNight::drawWorld" alt="" coords="127,1753,289,1780"/>
+<area shape="rect" href="$class_zombie_night.html#a255a40d32eaebf20af5fe45909f1fd1c" title="ZombieNight::setTransitionFalse" alt="" coords="104,1804,312,1831"/>
+<area shape="rect" href="$class_shay_world.html#a638a709462e1798e391f2fd39545501f" title="ShayWorld::setTransitionFalse" alt="" coords="108,1855,308,1881"/>
+<area shape="rect" href="$class_camera.html#a32f72b80b7aaf7a1623dc68239bd446b" title="Camera::SetWorldCoordinates" alt="" coords="369,563,567,589"/>
+<area shape="rect" href="$class_camera.html#a63b20dd514c4e3fc9990d6a61151387c" title="Camera::SetCollisionDetectionOn" alt="" coords="360,5,576,32"/>
+<area shape="rect" href="$class_camera.html#a043549232a16c18fe93f35c5d3a40fe2" title="Camera::SetNoBoundingBoxes" alt="" coords="368,56,568,83"/>
+<area shape="rect" href="$class_camera.html#a259204729f7a60277c6f6215559adcc0" title="Camera::Position" alt="" coords="408,107,528,133"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a6cf23cd46360f21b30b53b359d9d297f" title="CreatePlains" alt="" coords="420,157,516,184"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a1f83a4237959eaf436a6ceac26003892" title="CreateBoundingBoxes" alt="" coords="393,208,543,235"/>
+<area shape="rect" href="$class_camera.html#af39ed792820436b916a4d6110413423f" title="Camera::InitiateBoundingBoxes" alt="" coords="367,360,569,387"/>
+<area shape="rect" href="$_shay_world_8cpp.html#a0c8e3bf7c765b84b2a66cd9a8fefbe5e" title="CreateTextureList" alt="" coords="407,259,529,285"/>
+<area shape="rect" href="$_shay_world_8cpp.html#ac54794c345d8da57abbb08ea7118f121" title="CreateTextures" alt="" coords="413,512,523,539"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a5ff5f2586dcc95deac111dc9a71e23cf" title="glutIgnoreKeyRepeat" alt="" coords="397,867,539,893"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a6a51ea9e67c31331a21995bb47cccf6d" title="glutSpecialFunc" alt="" coords="411,309,525,336"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a5d2fb7f0657c731f6b0dd2db90b11529" title="glutSpecialUpFunc" alt="" coords="403,461,533,488"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#ada2482b1a314adbe8f66723a0394c8b5" title="glutKeyboardUpFunc" alt="" coords="397,917,539,944"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a4a3208239702781cf56b692948b5eab9" title="glutKeyboardFunc" alt="" coords="405,613,531,640"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a38d0c6b34ce4f3d27b3323a2c979f434" title="glutMouseFunc" alt="" coords="413,664,523,691"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#ae7dd32629bc897e1679597796e359ccd" title="glutReshapeFunc" alt="" coords="407,715,529,741"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a765b5fa72e50aa6225a4779e176af26e" title="glutDisplayFunc" alt="" coords="411,765,525,792"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a554ab8519dcd5840d56620719f30c0f2" title="glutIdleFunc" alt="" coords="423,816,513,843"/>
+<area shape="rect" href="$class_collision.html#af053c5af75487ad9562a936ec8e6a158" title="Collision::SetWorldX" alt="" coords="657,537,796,564"/>
+<area shape="rect" href="$class_collision.html#a6f39869c9da8a8860d01b7f8091ea0af" title="Collision::SetWorldZ" alt="" coords="657,588,796,615"/>
+<area shape="rect" href="$class_collision.html#a33c7681e88ca6ab89ae53b6342aed6f2" title="Collision::SetNoBoundingBoxes" alt="" coords="624,56,829,83"/>
+<area shape="rect" href="$classz_object.html#acbc9d9445a41ca8a773342e74380527c" title="zObject::load" alt="" coords="419,1171,517,1197"/>
+<area shape="rect" href="$classz_object.html#ac50ef4535d886b55e4875cf076e3078f" title="zObject::setTakenPipe" alt="" coords="392,1221,544,1248"/>
+<area shape="rect" href="$classz_object.html#ae696762877918e4d310ccdf2e6165bca" title="zObject::setstoryKeyAquired" alt="" coords="375,968,561,995"/>
+<area shape="rect" href="$classz_inventory.html#a41b63517ca7c39d4e54ad698305338c1" title="sets if the player has the story key or not" alt="" coords="384,1019,552,1045"/>
+<area shape="rect" href="$classz_inventory.html#a970e48dd8fa3eea423063debc4249dfb" title="zInventory::addItemLoc" alt="" coords="391,1069,545,1096"/>
+<area shape="rect" href="$class_sound.html#aec4c57708809e4422ea01338903a8f9f" title="sets the volume of the audio clip" alt="" coords="404,1120,532,1147"/>
+</map>

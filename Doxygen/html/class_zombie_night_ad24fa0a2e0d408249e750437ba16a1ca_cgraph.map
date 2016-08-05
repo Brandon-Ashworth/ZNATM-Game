@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_object.html#acbc9d9445a41ca8a773342e74380527c" title="zObject::load" alt="" coords="248,5,347,32"/>
+<area shape="rect" href="$classz_object.html#ac50ef4535d886b55e4875cf076e3078f" title="zObject::setTakenPipe" alt="" coords="221,56,373,83"/>
+<area shape="rect" href="$classz_object.html#ae696762877918e4d310ccdf2e6165bca" title="zObject::setstoryKeyAquired" alt="" coords="204,107,391,133"/>
+<area shape="rect" href="$classz_inventory.html#a41b63517ca7c39d4e54ad698305338c1" title="sets if the player has the story key or not" alt="" coords="213,157,381,184"/>
+<area shape="rect" href="$classz_inventory.html#a970e48dd8fa3eea423063debc4249dfb" title="zInventory::addItemLoc" alt="" coords="220,208,375,235"/>
+<area shape="rect" href="$class_sound.html#a5825b2c93a68de38ee7bdea0a3201165" title="location of the sound file" alt="" coords="251,259,344,285"/>
+<area shape="rect" href="$class_sound.html#aec4c57708809e4422ea01338903a8f9f" title="sets the volume of the audio clip" alt="" coords="233,309,361,336"/>
+<area shape="rect" href="$class_sound.html#ab4814798a8b973e3a4c729b7f3fff640" title="Sets the repeat to true or false." alt="" coords="244,360,351,387"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a765b5fa72e50aa6225a4779e176af26e" title="glutDisplayFunc" alt="" coords="240,411,355,437"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#ae7dd32629bc897e1679597796e359ccd" title="glutReshapeFunc" alt="" coords="236,461,359,488"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a4a3208239702781cf56b692948b5eab9" title="glutKeyboardFunc" alt="" coords="235,512,360,539"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a5ff5f2586dcc95deac111dc9a71e23cf" title="glutIgnoreKeyRepeat" alt="" coords="227,563,368,589"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#ada2482b1a314adbe8f66723a0394c8b5" title="glutKeyboardUpFunc" alt="" coords="227,613,368,640"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a38d0c6b34ce4f3d27b3323a2c979f434" title="glutMouseFunc" alt="" coords="243,664,352,691"/>
+<area shape="rect" href="$_debug_2freeglut__std_8h.html#a554ab8519dcd5840d56620719f30c0f2" title="glutIdleFunc" alt="" coords="252,715,343,741"/>
+<area shape="rect" href="$class_loader.html#aec05e4ecbad077dc3c18c66a02a0d807" title="finds the min and max the x, y, z axis" alt="" coords="441,5,556,32"/>
+</map>

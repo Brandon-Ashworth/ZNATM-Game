@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" href="$_system_8hpp.html" title="SFML/SFML/System.hpp" alt="" coords="308,80,476,107"/>
+<area shape="rect" href="$_window_2_window_8hpp.html" title="SFML/SFML/Window/Window.hpp" alt="" coords="500,80,719,107"/>
+<area shape="rect" href="$_audio_8hpp.html" title="SFML/SFML/Audio.hpp" alt="" coords="125,155,283,181"/>
+<area shape="rect" href="$_network_8hpp.html" title="SFML/SFML/Network.hpp" alt="" coords="307,155,477,181"/>
+<area shape="rect" href="$_window_8hpp.html" title="SFML/SFML/Window.hpp" alt="" coords="501,155,672,181"/>
+<area shape="rect" href="$_sound_8h.html" title="ZNATM/Sound.h" alt="" coords="147,229,261,256"/>
+<area shape="rect" href="$_z_n_a_t_m_8h.html" title="ZNATM/ZNATM.h" alt="" coords="80,304,203,331"/>
+<area shape="rect" href="$main_8cpp.html" title="main.cpp" alt="" coords="5,379,80,405"/>
+<area shape="rect" href="$_sound_8cpp.html" title="Sound.cpp" alt="" coords="227,304,309,331"/>
+<area shape="rect" href="$_z_n_a_t_m_2_sound_8cpp.html" title="ZNATM/Sound.cpp" alt="" coords="333,304,464,331"/>
+<area shape="rect" href="$_z_n_a_t_m_8cpp.html" title="ZNATM/ZNATM.cpp" alt="" coords="104,379,240,405"/>
+<area shape="rect" href="$_graphics_8hpp.html" title="SFML/SFML/Graphics.hpp" alt="" coords="620,229,796,256"/>
+<area shape="rect" href="$_render_window_8hpp.html" title="SFML/SFML/Graphics/RenderWindow.hpp" alt="" coords="696,155,963,181"/>
+</map>

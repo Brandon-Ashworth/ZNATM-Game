@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_zombie_night.html#ac94f67ce5b95fe46fe303e05cd0890ff" title="ZombieNight::ZombieNight" alt="" coords="189,5,363,32"/>
+<area shape="rect" href="$classz_object.html#aa5d53750a61dad200607b300d803ae3d" title="zObject::collideStatic" alt="" coords="204,56,348,83"/>
+<area shape="rect" href="$classz_object.html#afdb69da27134cd32a928e3675194890f" title="zObject::collideStair" alt="" coords="207,107,345,133"/>
+</map>

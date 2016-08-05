@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="5,229,125,256"/>
+<area shape="rect" href="$_joystick_8hpp.html" title="SFML/Window/Joystick.hpp" alt="" coords="39,80,223,107"/>
+<area shape="rect" href="$_keyboard_8hpp.html" title="SFML/Window/Keyboard.hpp" alt="" coords="247,80,436,107"/>
+<area shape="rect" href="$_mouse_8hpp.html" title="SFML/Window/Mouse.hpp" alt="" coords="460,80,633,107"/>
+<area shape="rect" href="$_window_2_export_8hpp.html" title="SFML/Window/Export.hpp" alt="" coords="149,155,323,181"/>
+<area shape="rect" href="$_vector2_8hpp.html" title="SFML/System/Vector2.hpp" alt="" coords="457,155,636,181"/>
+<area shape="rect" href="$_vector2_8inl.html" title="SFML/System/Vector2.inl" alt="" coords="461,229,632,256"/>
+</map>

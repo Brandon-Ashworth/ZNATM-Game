@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$structsf_1_1_event_1_1_mouse_wheel_event.html" title="Mouse wheel events parameters (MouseWheelMoved)" alt="" coords="16,8,203,35"/>
+<area shape="rect" href="$structsf_1_1_event_1_1_key_event.html" title="Keyboard event parameters (KeyPressed, KeyReleased)" alt="" coords="43,59,176,85"/>
+<area shape="rect" href="$structsf_1_1_event_1_1_size_event.html" title="Size events parameters (Resized)" alt="" coords="41,109,177,136"/>
+<area shape="rect" href="$structsf_1_1_event_1_1_text_event.html" title="Text event parameters (TextEntered)" alt="" coords="41,160,177,187"/>
+<area shape="rect" href="$structsf_1_1_event_1_1_mouse_button_event.html" title="Mouse buttons events parameters (MouseButtonPressed, MouseButtonReleased)" alt="" coords="16,211,203,237"/>
+<area shape="rect" href="$structsf_1_1_event_1_1_joystick_connect_event.html" title="Joystick connection events parameters (JoystickConnected, JoystickDisconnected)" alt="" coords="5,261,213,288"/>
+<area shape="rect" href="$structsf_1_1_event_1_1_joystick_button_event.html" title="Joystick buttons events parameters (JoystickButtonPressed, JoystickButtonReleased)" alt="" coords="11,312,208,339"/>
+<area shape="rect" href="$structsf_1_1_event_1_1_mouse_move_event.html" title="Mouse move event parameters (MouseMoved)" alt="" coords="20,363,199,389"/>
+<area shape="rect" href="$structsf_1_1_event_1_1_joystick_move_event.html" title="Joystick axis move event parameters (JoystickMoved)" alt="" coords="15,413,204,440"/>
+</map>

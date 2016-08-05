@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$_graphics_2_export_8hpp.html" title="SFML/Graphics/Export.hpp" alt="" coords="595,304,773,331"/>
+<area shape="rect" href="$_glyph_8hpp.html" title="SFML/Graphics/Glyph.hpp" alt="" coords="247,155,423,181"/>
+<area shape="rect" href="$_rect_8hpp.html" title="SFML/Graphics/Rect.hpp" alt="" coords="153,229,321,256"/>
+<area shape="rect" href="$_vector2_8hpp.html" title="SFML/System/Vector2.hpp" alt="" coords="5,304,184,331"/>
+<area shape="rect" href="$_texture_8hpp.html" title="SFML/Graphics/Texture.hpp" alt="" coords="619,80,803,107"/>
+<area shape="rect" href="$_string_8hpp.html" title="SFML/System/String.hpp" alt="" coords="1076,155,1244,181"/>
+<area shape="rect" href="$_config_8hpp.html" title="SFML/Config.hpp" alt="" coords="824,379,944,405"/>
+<area shape="rect" href="$_rect_8inl.html" title="SFML/Graphics/Rect.inl" alt="" coords="307,304,467,331"/>
+<area shape="rect" href="$_vector2_8inl.html" title="SFML/System/Vector2.inl" alt="" coords="9,379,180,405"/>
+<area shape="rect" href="$_image_8hpp.html" title="SFML/Graphics/Image.hpp" alt="" coords="497,155,673,181"/>
+<area shape="rect" href="$_gl_resource_8hpp.html" title="SFML/Window/GlResource.hpp" alt="" coords="748,155,951,181"/>
+<area shape="rect" href="$_color_8hpp.html" title="SFML/Graphics/Color.hpp" alt="" coords="476,229,647,256"/>
+<area shape="rect" href="$_window_2_export_8hpp.html" title="SFML/Window/Export.hpp" alt="" coords="797,304,971,331"/>
+<area shape="rect" href="$_system_2_export_8hpp.html" title="SFML/System/Export.hpp" alt="" coords="1012,304,1183,331"/>
+</map>

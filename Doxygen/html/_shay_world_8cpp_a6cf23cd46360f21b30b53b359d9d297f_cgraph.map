@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_camera.html#a5b5c1468bdb3b8e6e654bea66c9561b8" title="Camera::SetPlains" alt="" coords="149,56,280,83"/>
+<area shape="rect" href="$class_plain_linked_list.html#a4d9d62421c215a3c9e2c9ef0833b84a1" title="PlainLinkedList::AddToStart" alt="" coords="329,56,511,83"/>
+<area shape="rect" href="$class_plain_node.html#a566db8fc78c8b4dea13373f908a53577" title="PlainNode::SetData" alt="" coords="560,5,696,32"/>
+<area shape="rect" href="$class_plain_node.html#afe5be77c2dfbf7447105f0ea722e77f1" title="PlainNode::SetNext" alt="" coords="560,56,696,83"/>
+<area shape="rect" href="$class_plain_node.html#a34f55330c3e261b76b9086fec5928386" title="PlainNode::GetNext" alt="" coords="560,107,696,133"/>
+</map>

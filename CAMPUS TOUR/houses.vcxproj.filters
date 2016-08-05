@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{40cdd664-24e4-4e58-ae95-b71a10d180d5}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{b8087888-857b-422c-a1cf-8fcc26702247}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{7f5c5954-85cd-4dd1-ac44-6c4bbb9c5813}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="ZNATM">
+      <UniqueIdentifier>{f8779e48-74dd-4458-bc82-85ade2dd24b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ZNATM\H Files">
+      <UniqueIdentifier>{755e5974-61d0-426d-bb7f-9367fa7a883d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ZNATM\CPP Files">
+      <UniqueIdentifier>{dcc64935-33cd-429d-947f-26c97b5e403b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AABB.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AABBLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AABBNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cameraMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="collision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlainLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlainNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="texturedPolygons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShayWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\zAABB.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\zCamera.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\ZNATM.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\Loader.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\zObject.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\MTL.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\zInventory.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\zZombie.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\zPlayer.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\zKey.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNATM\Sound.cpp">
+      <Filter>ZNATM\CPP Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AABB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AABBLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AABBNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cameraMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="collision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlainLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlainNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="texturedPolygons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShayWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\zAABB.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\zCamera.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\ZNATM.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\zObject.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\Loader.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\typedef.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\MTL.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\zInventory.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\zZombie.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\zPlayer.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\zKey.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNATM\Sound.h">
+      <Filter>ZNATM\H Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

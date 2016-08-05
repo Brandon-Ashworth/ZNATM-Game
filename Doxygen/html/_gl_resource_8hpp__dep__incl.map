@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$_shader_8hpp.html" title="SFML/SFML/Graphics/Shader.hpp" alt="" coords="5,229,227,256"/>
+<area shape="rect" href="$_texture_8hpp.html" title="SFML/SFML/Graphics/Texture.hpp" alt="" coords="304,80,528,107"/>
+<area shape="rect" href="$_context_8hpp.html" title="SFML/SFML/Window/Context.hpp" alt="" coords="552,80,771,107"/>
+<area shape="rect" href="$_window_2_window_8hpp.html" title="SFML/SFML/Window/Window.hpp" alt="" coords="795,80,1013,107"/>
+<area shape="rect" href="$_graphics_8hpp.html" title="SFML/SFML/Graphics.hpp" alt="" coords="367,304,543,331"/>
+<area shape="rect" href="$_font_8hpp.html" title="SFML/SFML/Graphics/Font.hpp" alt="" coords="313,155,519,181"/>
+<area shape="rect" href="$_render_texture_8hpp.html" title="SFML/SFML/Graphics/RenderTexture.hpp" alt="" coords="581,229,845,256"/>
+<area shape="rect" href="$_text_8hpp.html" title="SFML/SFML/Graphics/Text.hpp" alt="" coords="352,229,557,256"/>
+<area shape="rect" href="$_window_8hpp.html" title="SFML/SFML/Window.hpp" alt="" coords="605,155,776,181"/>
+<area shape="rect" href="$_render_window_8hpp.html" title="SFML/SFML/Graphics/RenderWindow.hpp" alt="" coords="800,155,1067,181"/>
+</map>

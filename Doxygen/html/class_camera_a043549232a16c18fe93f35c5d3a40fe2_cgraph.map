@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_collision.html#a33c7681e88ca6ab89ae53b6342aed6f2" title="Collision::SetNoBoundingBoxes" alt="" coords="256,5,461,32"/>
+<area shape="rect" href="$class_a_a_b_b.html#a4bbff0661c754b621c4b6bfc89bcf051" title="AABB::SetNoBoundingBoxes" alt="" coords="509,5,701,32"/>
+</map>

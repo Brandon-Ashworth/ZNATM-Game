@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_sound_recorder.html" title="Abstract base class for capturing sound data." alt="" coords="5,5,133,32"/>
+<area shape="rect" href="$classsf_1_1_sound_buffer_recorder.html" title="Specialized SoundRecorder which stores the captured audio data into a sound buffer." alt="" coords="183,5,343,32"/>
+</map>

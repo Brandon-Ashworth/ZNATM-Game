@@ -1,0 +1,373 @@
+﻿Build started 06/11/2013 9:13:16 PM.
+     1>Project "C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\houses.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Release\houses.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\\SFML" /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D SFML_STATIC /D WIN32 /D NDEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release\\" /Fd".\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ShayWorld.cpp ZNATM\Loader.cpp ZNATM\MTL.cpp ZNATM\Sound.cpp ZNATM\ZNATM.cpp ZNATM\zInventory.cpp ZNATM\zKey.cpp ZNATM\zObject.cpp ZNATM\zPlayer.cpp ZNATM\zZombie.cpp main.cpp
+         ShayWorld.cpp
+     1>ShayWorld.cpp(282): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(282): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(282): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(356): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>ShayWorld.cpp(443): warning C4101: 'i' : unreferenced local variable
+     1>ShayWorld.cpp(603): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>ShayWorld.cpp(603): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>ShayWorld.cpp(609): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>ShayWorld.cpp(609): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>ShayWorld.cpp(619): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>ShayWorld.cpp(619): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>ShayWorld.cpp(624): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>ShayWorld.cpp(624): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>ShayWorld.cpp(1590): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>ShayWorld.cpp(1609): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>ShayWorld.cpp(1796): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1798): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1808): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1810): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1818): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1818): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1820): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1820): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1822): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1822): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1824): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1824): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1830): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1832): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1834): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1834): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1836): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1836): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1903): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1907): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1909): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1911): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1911): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1913): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1913): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1928): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1954): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(1971): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2297): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2309): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2474): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2478): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2558): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2558): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2563): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2567): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2573): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2577): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2584): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2588): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2594): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2611): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2615): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2621): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2625): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2664): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2671): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2682): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2689): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2712): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2726): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2726): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2746): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2836): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2844): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2851): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2864): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(2872): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3242): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3443): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3458): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3474): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3494): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3517): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3521): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3540): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3544): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3564): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3568): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3588): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3592): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3883): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3883): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3883): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3885): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3885): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3885): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3886): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3887): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3888): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3889): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3895): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3895): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3895): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3897): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3897): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3897): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3898): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3899): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3900): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3901): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3911): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3911): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3911): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3913): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3913): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3913): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3914): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3915): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3916): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3917): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3923): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3923): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3923): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3925): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3925): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3925): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3926): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3927): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3928): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3929): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3958): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3958): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3962): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(3962): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4017): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4044): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4058): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4086): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4086): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4113): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4127): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4320): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4351): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4615): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4626): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4638): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4672): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4683): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4695): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4705): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4718): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4802): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4813): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4824): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4836): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(4854): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5080): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5087): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5094): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5113): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5113): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5117): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5117): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5133): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5133): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5137): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5137): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5244): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>ShayWorld.cpp(5320): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5321): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5323): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5324): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5326): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5327): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5329): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5330): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5332): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5333): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5338): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5343): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5348): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5354): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5356): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5357): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5358): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5359): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5360): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5361): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5362): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5363): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5364): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5365): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+     1>ShayWorld.cpp(5366): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+         Loader.cpp
+     1>ZNATM\Loader.cpp(419): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\Loader.cpp(425): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\Loader.cpp(478): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\Loader.cpp(500): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\Loader.cpp(602): warning C4018: '<' : signed/unsigned mismatch
+         MTL.cpp
+     1>ZNATM\MTL.cpp(104): warning C4101: 'one' : unreferenced local variable
+     1>ZNATM\MTL.cpp(141): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\MTL.cpp(170): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\MTL.cpp(176): warning C4800: 'ILboolean' : forcing value to bool 'true' or 'false' (performance warning)
+     1>ZNATM\MTL.cpp(139): warning C4101: 'tempimgTex' : unreferenced local variable
+         Sound.cpp
+         ZNATM.cpp
+     1>ZNATM\ZNATM.cpp(87): warning C4305: '=' : truncation from 'double' to 'float'
+     1>ZNATM\ZNATM.cpp(94): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(216): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(218): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(222): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(230): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(282): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(289): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ZNATM\ZNATM.cpp(296): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(391): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ZNATM\ZNATM.cpp(428): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(431): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(453): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(458): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(498): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(526): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>ZNATM\ZNATM.cpp(554): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(560): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(560): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(561): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(561): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(562): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(562): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(624): warning C4018: '<=' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(717): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(753): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(753): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(753): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(766): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(787): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(791): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(803): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(809): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(809): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(809): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         zInventory.cpp
+     1>ZNATM\zInventory.cpp(67): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zInventory.cpp(68): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zInventory.cpp(69): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zInventory.cpp(81): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zInventory.cpp(82): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zInventory.cpp(83): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         zKey.cpp
+     1>ZNATM\zKey.cpp(58): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(58): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(59): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(59): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(60): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(60): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(65): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(66): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(67): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(72): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(73): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(74): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(75): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(76): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zKey.cpp(77): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         zObject.cpp
+     1>ZNATM\zObject.cpp(18): warning C4101: 'y' : unreferenced local variable
+     1>ZNATM\zObject.cpp(17): warning C4101: 'x' : unreferenced local variable
+     1>ZNATM\zObject.cpp(19): warning C4101: 'z' : unreferenced local variable
+     1>ZNATM\zObject.cpp(53): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(114): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ZNATM\zObject.cpp(93): warning C4101: 'i' : unreferenced local variable
+     1>ZNATM\zObject.cpp(170): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(215): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(271): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(271): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(287): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(325): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(326): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(333): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(334): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(365): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(373): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(377): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(381): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(363): warning C4101: 'i2' : unreferenced local variable
+     1>ZNATM\zObject.cpp(523): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(561): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(567): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(599): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(660): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(667): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(671): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(675): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(679): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(718): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\zObject.cpp(797): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>ZNATM\zObject.cpp(824): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         zPlayer.cpp
+     1>ZNATM\zPlayer.cpp(6): warning C4305: '=' : truncation from 'double' to 'float'
+     1>ZNATM\zPlayer.cpp(7): warning C4305: '=' : truncation from 'double' to 'float'
+         zZombie.cpp
+     1>ZNATM\zZombie.cpp(6): warning C4305: '=' : truncation from 'double' to 'float'
+     1>ZNATM\zZombie.cpp(7): warning C4305: '=' : truncation from 'double' to 'float'
+     1>ZNATM\zZombie.cpp(12): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(20): warning C4305: '=' : truncation from 'double' to 'float'
+     1>ZNATM\zZombie.cpp(21): warning C4305: '=' : truncation from 'double' to 'float'
+     1>ZNATM\zZombie.cpp(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(139): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>ZNATM\zZombie.cpp(143): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(147): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(155): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>ZNATM\zZombie.cpp(159): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(163): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(184): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(185): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(186): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(308): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(310): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(314): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(318): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(322): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(326): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(369): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(370): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(371): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(372): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(373): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\zZombie.cpp(374): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         main.cpp
+     1>main.cpp(25): warning C4101: 'oldLight' : unreferenced local variable
+         Generating Code...
+     1>c:\users\seij\stuff\uni\ict207\w1\shaylearyall\ict207-project\campus tour\znatm\sound.cpp(147): warning C4715: 'Sound::getVolume' : not all control paths return a value
+     1>c:\users\seij\stuff\uni\ict207\w1\shaylearyall\ict207-project\campus tour\znatm\sound.cpp(189): warning C4715: 'Sound::isPlaying' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release\houses.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\\lib\\" odbc32.lib odbccp32.lib freeglut.lib ilut.lib ilu.lib devil.lib "sfml-audio.lib" "sfml-system.lib" "sfml-system-s.lib" "sfml-audio-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Release\houses.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\Release\houses.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Release\houses.lib" /MACHINE:X86 .\Release\AABB.obj
+         .\Release\AABBLinkedList.obj
+         .\Release\AABBNode.obj
+         .\Release\camera.obj
+         .\Release\cameraMap.obj
+         .\Release\collision.obj
+         .\Release\main.obj
+         .\Release\PlainLinkedList.obj
+         .\Release\PlainNode.obj
+         .\Release\ShayWorld.obj
+         .\Release\texturedPolygons.obj
+         .\Release\Loader.obj
+         .\Release\MTL.obj
+         .\Release\Sound.obj
+         .\Release\zAABB.obj
+         .\Release\zCamera.obj
+         .\Release\zInventory.obj
+         .\Release\zKey.obj
+         .\Release\ZNATM.obj
+         .\Release\zObject.obj
+         .\Release\zPlayer.obj
+         .\Release\zZombie.obj
+         houses.vcxproj -> C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\.\Release\houses.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\Release\houses.exe;#1" /manifest .\Release\houses.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file ".\Release\houses.unsuccessfulbuild".
+         Touching ".\Release\houses.lastbuildstate".
+     1>Done Building Project "C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\houses.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.93

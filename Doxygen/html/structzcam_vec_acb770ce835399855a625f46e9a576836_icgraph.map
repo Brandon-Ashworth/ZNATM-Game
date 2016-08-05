@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$structzcam_vec.html#a4497697db738e2d8f4fdcbf6b2244eca" title="overloads the + operator to allow for adding of multiple camVec types" alt="" coords="196,5,335,32"/>
+<area shape="rect" href="$structzcam_vec.html#a7706102a85a068d22c1a7ff268189c45" title="overloads the &#45; operator to allow for subtracting of multiple camVec types" alt="" coords="197,56,333,83"/>
+<area shape="rect" href="$structzcam_vec.html#ab1787ec2dec69b7efc6a6b0f39b8f6ec" title="overloads the * operator to allow for multiplying of ... multiple camVec types" alt="" coords="197,107,333,133"/>
+<area shape="rect" href="$structzcam_vec.html#a06795e76b10522bb03eb6ff1419413ed" title="overloads the / operator to allow for dividing of multiple camVec types" alt="" coords="197,157,333,184"/>
+</map>

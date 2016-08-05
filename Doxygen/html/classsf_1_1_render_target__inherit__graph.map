@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_render_texture.html" title="Target for off&#45;screen 2D rendering into a texture." alt="" coords="5,155,128,181"/>
+<area shape="rect" href="$classsf_1_1_render_window.html" title="Window that can serve as a target for 2D drawing." alt="" coords="152,155,277,181"/>
+<area shape="rect" href="$classsf_1_1_non_copyable.html" title="Utility class that makes any derived class non&#45;copyable." alt="" coords="83,5,197,32"/>
+</map>

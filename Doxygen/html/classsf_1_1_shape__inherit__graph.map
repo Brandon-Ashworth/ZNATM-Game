@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_circle_shape.html" title="Specialized shape representing a circle." alt="" coords="5,155,115,181"/>
+<area shape="rect" href="$classsf_1_1_convex_shape.html" title="Specialized shape representing a convex polygon." alt="" coords="139,155,256,181"/>
+<area shape="rect" href="$classsf_1_1_rectangle_shape.html" title="Specialized shape representing a rectangle." alt="" coords="280,155,413,181"/>
+<area shape="rect" href="$classsf_1_1_drawable.html" title="Abstract base class for objects that can be drawn to a render target." alt="" coords="88,5,179,32"/>
+<area shape="rect" href="$classsf_1_1_transformable.html" title="Decomposed transform defined by a position, a rotation and a scale." alt="" coords="203,5,323,32"/>
+</map>

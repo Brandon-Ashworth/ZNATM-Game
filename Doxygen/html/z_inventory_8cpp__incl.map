@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$z_inventory_8h.html" title="zInventory.h" alt="" coords="36,80,127,107"/>
+<area shape="rect" href="$_loader_8h.html" title="Loader.h" alt="" coords="171,155,243,181"/>
+<area shape="rect" href="$typedef_8h.html" title="typedef.h" alt="" coords="128,304,203,331"/>
+<area shape="rect" href="$_m_t_l_8h.html" title="MTL.h" alt="" coords="224,229,280,256"/>
+<area shape="rect" href="$freeglut_8h.html" title="../freeglut.h" alt="" coords="565,304,651,331"/>
+<area shape="rect" href="$il_8h.html" title="../lib/IL/il.h" alt="" coords="277,304,357,331"/>
+<area shape="rect" href="$freeglut__std_8h.html" title="freeglut_std.h" alt="" coords="633,379,732,405"/>
+<area shape="rect" href="$freeglut__ext_8h.html" title="freeglut_ext.h" alt="" coords="484,379,583,405"/>
+</map>

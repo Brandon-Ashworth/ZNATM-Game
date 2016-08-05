@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" href="$_render_target_8hpp.html" title="SFML/SFML/Graphics/RenderTarget.hpp" alt="" coords="159,229,415,256"/>
+<area shape="rect" href="$_shader_8hpp.html" title="SFML/SFML/Graphics/Shader.hpp" alt="" coords="584,304,805,331"/>
+<area shape="rect" href="$_ftp_8hpp.html" title="SFML/SFML/Network/Ftp.hpp" alt="" coords="920,229,1115,256"/>
+<area shape="rect" href="$_http_8hpp.html" title="SFML/SFML/Network/Http.hpp" alt="" coords="1139,229,1339,256"/>
+<area shape="rect" href="$_socket_8hpp.html" title="SFML/SFML/Network/Socket.hpp" alt="" coords="1219,80,1435,107"/>
+<area shape="rect" href="$_lock_8hpp.html" title="SFML/SFML/System/Lock.hpp" alt="" coords="1581,80,1781,107"/>
+<area shape="rect" href="$_mutex_8hpp.html" title="SFML/SFML/System/Mutex.hpp" alt="" coords="2303,155,2511,181"/>
+<area shape="rect" href="$_thread_8hpp.html" title="SFML/SFML/System/Thread.hpp" alt="" coords="2447,80,2657,107"/>
+<area shape="rect" href="$_thread_local_8hpp.html" title="SFML/SFML/System/ThreadLocal.hpp" alt="" coords="1927,80,2169,107"/>
+<area shape="rect" href="$_context_8hpp.html" title="SFML/SFML/Window/Context.hpp" alt="" coords="732,80,951,107"/>
+<area shape="rect" href="$_window_2_window_8hpp.html" title="SFML/SFML/Window/Window.hpp" alt="" coords="439,229,657,256"/>
+<area shape="rect" href="$_render_texture_8hpp.html" title="SFML/SFML/Graphics/RenderTexture.hpp" alt="" coords="5,304,269,331"/>
+<area shape="rect" href="$_render_window_8hpp.html" title="SFML/SFML/Graphics/RenderWindow.hpp" alt="" coords="293,304,560,331"/>
+<area shape="rect" href="$_graphics_8hpp.html" title="SFML/SFML/Graphics.hpp" alt="" coords="472,379,648,405"/>
+<area shape="rect" href="$_network_8hpp.html" title="SFML/SFML/Network.hpp" alt="" coords="1335,304,1505,331"/>
+<area shape="rect" href="$_tcp_listener_8hpp.html" title="SFML/SFML/Network/TcpListener.hpp" alt="" coords="1601,155,1844,181"/>
+<area shape="rect" href="$_tcp_socket_8hpp.html" title="SFML/SFML/Network/TcpSocket.hpp" alt="" coords="1076,155,1313,181"/>
+<area shape="rect" href="$_udp_socket_8hpp.html" title="SFML/SFML/Network/UdpSocket.hpp" alt="" coords="1337,155,1577,181"/>
+<area shape="rect" href="$_system_8hpp.html" title="SFML/SFML/System.hpp" alt="" coords="2048,229,2216,256"/>
+<area shape="rect" href="$_audio_8hpp.html" title="SFML/SFML/Audio.hpp" alt="" coords="2581,304,2739,331"/>
+<area shape="rect" href="$_window_8hpp.html" title="SFML/SFML/Window.hpp" alt="" coords="829,304,1000,331"/>
+<area shape="rect" href="$_sound_8h.html" title="ZNATM/Sound.h" alt="" coords="2603,379,2717,405"/>
+<area shape="rect" href="$_z_n_a_t_m_8h.html" title="ZNATM/ZNATM.h" alt="" coords="2535,453,2657,480"/>
+<area shape="rect" href="$main_8cpp.html" title="main.cpp" alt="" coords="2460,528,2535,555"/>
+<area shape="rect" href="$_sound_8cpp.html" title="Sound.cpp" alt="" coords="2681,453,2764,480"/>
+<area shape="rect" href="$_z_n_a_t_m_2_sound_8cpp.html" title="ZNATM/Sound.cpp" alt="" coords="2788,453,2919,480"/>
+<area shape="rect" href="$_z_n_a_t_m_8cpp.html" title="ZNATM/ZNATM.cpp" alt="" coords="2559,528,2695,555"/>
+<area shape="rect" href="$_music_8hpp.html" title="SFML/SFML/Audio/Music.hpp" alt="" coords="2428,229,2623,256"/>
+<area shape="rect" href="$_sound_recorder_8hpp.html" title="SFML/SFML/Audio/SoundRecorder.hpp" alt="" coords="2799,155,3049,181"/>
+<area shape="rect" href="$_sound_stream_8hpp.html" title="SFML/SFML/Audio/SoundStream.hpp" alt="" coords="2535,155,2775,181"/>
+<area shape="rect" href="$_sound_buffer_recorder_8hpp.html" title="SFML/SFML/Audio/SoundBufferRecorder.hpp" alt="" coords="2777,229,3060,256"/>
+<area shape="rect" href="$_thread_local_ptr_8hpp.html" title="SFML/SFML/System/ThreadLocalPtr.hpp" alt="" coords="1919,155,2177,181"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classz_inventory.html#ad97144da5c39ab92f1aaed0cb8f4f353" title="sets the item object to draw" alt="" coords="149,5,296,32"/>
+<area shape="rect" href="$classz_key.html#a794394544aafd9dbd187210299651a87" title="draws the model" alt="" coords="180,56,265,83"/>
+<area shape="rect" href="$classz_zombie.html#aeba8ea28a8ef9b3df3d4ac3d7934dc64" title="draws the model" alt="" coords="171,107,275,133"/>
+</map>

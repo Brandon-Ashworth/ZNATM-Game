@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$_context_8hpp.html" title="SFML/SFML/Window/Context.hpp" alt="" coords="784,155,1003,181"/>
+<area shape="rect" href="$_gl_resource_8hpp.html" title="SFML/SFML/Window/GlResource.hpp" alt="" coords="297,80,540,107"/>
+<area shape="rect" href="$_window_2_window_8hpp.html" title="SFML/SFML/Window/Window.hpp" alt="" coords="491,155,709,181"/>
+<area shape="rect" href="$_joystick_8hpp.html" title="SFML/SFML/Window/Joystick.hpp" alt="" coords="929,80,1151,107"/>
+<area shape="rect" href="$_keyboard_8hpp.html" title="SFML/SFML/Window/Keyboard.hpp" alt="" coords="1175,80,1404,107"/>
+<area shape="rect" href="$_mouse_8hpp.html" title="SFML/SFML/Window/Mouse.hpp" alt="" coords="1428,80,1641,107"/>
+<area shape="rect" href="$_video_mode_8hpp.html" title="SFML/SFML/Window/VideoMode.hpp" alt="" coords="615,80,855,107"/>
+<area shape="rect" href="$_window_8hpp.html" title="SFML/SFML/Window.hpp" alt="" coords="917,229,1088,256"/>
+<area shape="rect" href="$_graphics_8hpp.html" title="SFML/SFML/Graphics.hpp" alt="" coords="341,379,517,405"/>
+<area shape="rect" href="$_shader_8hpp.html" title="SFML/SFML/Graphics/Shader.hpp" alt="" coords="585,304,807,331"/>
+<area shape="rect" href="$_texture_8hpp.html" title="SFML/SFML/Graphics/Texture.hpp" alt="" coords="171,155,395,181"/>
+<area shape="rect" href="$_font_8hpp.html" title="SFML/SFML/Graphics/Font.hpp" alt="" coords="157,229,363,256"/>
+<area shape="rect" href="$_render_texture_8hpp.html" title="SFML/SFML/Graphics/RenderTexture.hpp" alt="" coords="297,304,561,331"/>
+<area shape="rect" href="$_text_8hpp.html" title="SFML/SFML/Graphics/Text.hpp" alt="" coords="17,304,223,331"/>
+<area shape="rect" href="$_render_window_8hpp.html" title="SFML/SFML/Graphics/RenderWindow.hpp" alt="" coords="505,229,772,256"/>
+<area shape="rect" href="$_event_8hpp.html" title="SFML/SFML/Window/Event.hpp" alt="" coords="1172,155,1377,181"/>
+</map>

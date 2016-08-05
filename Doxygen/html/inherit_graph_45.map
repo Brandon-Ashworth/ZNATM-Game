@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classsf_1_1_ftp_1_1_response.html" title="Define a FTP response." alt="" coords="7,31,129,57"/>
+<area shape="rect" href="$classsf_1_1_ftp_1_1_directory_response.html" title="Specialization of FTP response returning a directory." alt="" coords="179,5,355,32"/>
+<area shape="rect" href="$classsf_1_1_ftp_1_1_listing_response.html" title="Specialization of FTP response returning a filename lisiting." alt="" coords="185,56,348,83"/>
+</map>
